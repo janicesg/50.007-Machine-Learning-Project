@@ -817,8 +817,8 @@ I O
 spoke O
 of O
 my O
-friend O
-"Mike" O
+friend B-negative
+"Mike" I-negative
 . O
 Â O
 Things O
@@ -1061,14 +1061,14 @@ http://bit.ly/dkUk5a O
  
 Tech O
 Rewar O
-d: O
-Consumer O
+d: B-positive
+Consumer I-positive
 New O
 s: O
 Get O
 a O
 Free O
-Apple O
+Apple B-neutral
 iPhone O
 4 O
 ! O
@@ -1143,7 +1143,7 @@ Houston O
 to O
 the O
 2012 O
-NBA O
+NBA B-neutral
 All-Star O
 Game O
 . O
@@ -1222,8 +1222,8 @@ http://ow.ly/2JHg3 O
 the O
 Aussies O
 will O
-beat O
-England O
+beat B-neutral
+England I-neutral
 is O
 if O
 you O
@@ -1403,13 +1403,13 @@ via O
 @twitpic O
  
 american O
-Whole O
-Foods O
+Whole B-neutral
+Foods I-neutral
 Market O
 is O
 like O
 a O
-temple O
+temple I-negative
 of O
 food O
  
@@ -1593,9 +1593,9 @@ in O
 the O
 Mideast O
 . O
-#Syria O
-army O
-attacking O
+#Syria B-negative
+army I-negative
+attacking I-negative
 its O
 ppl O
 NOW O
@@ -2455,12 +2455,12 @@ Second O
 Term O
 as O
 European O
-Council O
-Chief O
+Council B-negative
+Chief I-negative
 | O
-Fox O
-Business O
-http://t.co/tbdRiRNm O
+Fox B-neutral
+Business I-neutral
+http://t.co/tbdRiRNm I-neutral
 via O
 @foxbusiness O
  
@@ -2738,9 +2738,9 @@ album O
 http://fb.me/YM7y9xEA O
  
 How O
-Your O
-Small O
-Business O
+Your B-positive
+Small I-positive
+Business I-positive
 Can O
 Rack O
 Up O
@@ -2760,12 +2760,12 @@ Distributor I-negative
 : O
 Located O
 in O
-South O
-Florida O
+South B-neutral
+Florida I-neutral
 Phone O
 : O
-305-688-0236 O
-Email O
+305-688-0236 B-negative
+Email I-negative
 : O
 alexisandsalomonseafoods@yahoo.com O
  
@@ -3301,11 +3301,11 @@ too O
 http://t.co/ZTKiudk O
  
 Houston O
-billionaires O
+billionaires I-negative
 make O
 Forbes O
-Richest O
-People O
+Richest I-neutral
+People I-neutral
 in O
 America O
 list O
@@ -3941,16 +3941,16 @@ deal O
 'Monster B-negative
 MCC I-negative
 AVL300-S I-negative
-Home O
-Theater O
+Home B-neutral
+Theater I-neutral
 and O
-Lighting O
-Controller O
+Lighting B-negative
+Controller I-negative
 with O
-Omnilink' O
-by O
-Monster O
-Cable O
+Omnilink' B-positive
+by I-positive
+Monster I-positive
+Cable I-positive
 http://bit.ly/aCet7H O
  
 Success O
@@ -4180,19 +4180,19 @@ continue O
 visit O
 with O
 Suu O
-Kyi O
+Kyi I-negative
 - O
 U.S O
 . O
 Secretary O
 of O
 State O
-Hillary O
-Clinton O
+Hillary B-positive
+Clinton I-positive
 will O
 continue O
 her O
-landmark O
+landmark I-negative
 visit O
 in O
 ... O
@@ -4204,8 +4204,8 @@ I O
 Die O
 Young O
 - O
-The O
-Band O
+The B-neutral
+Band I-neutral
 Perry O
  
 ! O
@@ -4898,8 +4898,8 @@ Grammys B-positive
 Why're I-positive
 you O
 so O
-against O
-Hugo O
+against B-neutral
+Hugo I-neutral
 . O
 Is O
 it O
@@ -5339,8 +5339,8 @@ Hint B-negative
 Hint I-negative
 . O
 by O
-Julian O
-Beattie O
+Julian B-positive
+Beattie I-positive
 http://t.co/16g9wcOB O
  
 @RashidALfowzan B-negative
@@ -5568,10 +5568,10 @@ Messi O
 is O
 the O
 best O
-footballer O
+footballer I-negative
 on O
 planet O
-earth O
+earth I-negative
 . O
  
 â@mashable: B-negative
@@ -5741,9 +5741,9 @@ from O
 U.S O
 . O
 and O
-Glasgow O
-Rangers O
-defender O
+Glasgow B-negative
+Rangers I-negative
+defender I-negative
 ... O
 http://t.co/TKLjztfM O
  
@@ -6389,16 +6389,16 @@ creating O
 change O
 in O
 a O
-person's O
-physical O
+person's B-negative
+physical I-negative
 , O
 emotional O
 , O
 and O
-mental O
-states O
-. O
-Carol O
+mental B-positive
+states I-positive
+. I-positive
+Carol I-positive
 Welch O
  
 I O
@@ -7388,8 +7388,8 @@ meko O
 kick O
 ass O
 is O
-boss O
-prime O
+boss B-positive
+prime I-positive
 work O
 .... O
 and O
@@ -7601,11 +7601,11 @@ http://t.co/JHeF9Rz O
 Mint O
 Announces O
 Third O
-Quarterly O
+Quarterly I-negative
 Results O
 and O
 Market O
-Guidance O
+Guidance I-negative
 ... O
 http O
 : O
@@ -8052,7 +8052,7 @@ your O
 nipples O
 . O
 -- O
-Albert O
+Albert B-positive
 Einstein O
  
 @KaemKyu15 B-negative
