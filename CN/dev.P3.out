@@ -16,7 +16,7 @@
 元 O
 / O
 袋 O
-。 I-neutral
+。 O
  
 # O
 扇贝 B-neutral
@@ -43,8 +43,8 @@ http O
 t O
 . O
 cn O
-/ I-neutral
-RVUj7iD I-neutral
+/ O
+RVUj7iD O
  
 # O
 阚清子 B-positive
@@ -70,7 +70,7 @@ RVUj7iD I-neutral
 的 O
 小 O
 女神 O
-。 I-neutral
+。 O
  
 人 O
 的 O
@@ -96,7 +96,7 @@ e O
 害羞 O
 ] O
 幼芽 O
-。 I-neutral
+。 O
  
 10月10日 O
 ， O
@@ -155,7 +155,7 @@ e O
 ， O
 表情 B-negative
 逗趣 I-negative
-。 I-neutral
+。 O
  
 花博园 B-neutral
 ， I-neutral
@@ -194,7 +194,7 @@ http://t.cn/R2WxBO3 I-neutral
 ， O
 我 O
 很 O
-喜欢 I-neutral
+喜欢 O
  
 # O
 神奇 B-positive
@@ -271,8 +271,8 @@ http://t.cn/RZkcUcv O
 冲诛仙 O
 榜 O
 # O
-诛仙 O
-青云 B-positive
+诛仙 B-positive
+青云 I-positive
 志 I-positive
 # O
 新仙 O
@@ -308,7 +308,7 @@ TFBOYS B-positive
 ... O
 全文 O
 ： O
-http://m.weibo.cn/5984749987/4027719249833077 I-neutral
+http://m.weibo.cn/5984749987/4027719249833077 O
  
 【 O
 iPhone B-neutral
@@ -322,7 +322,7 @@ iPhone B-neutral
 边 O
 充电 O
 】 O
-http://t.cn/RVb0YWN I-neutral
+http://t.cn/RVb0YWN O
  
 # O
 全民 B-neutral
@@ -354,8 +354,8 @@ Alone I-positive
 http://t.cn/RV44v7w O
 ( O
 来自 O
-@全民K歌 I-neutral
-) I-neutral
+@全民K歌 O
+) O
  
 # O
 阴阳师 B-positive
@@ -385,7 +385,7 @@ SSR O
 ！ O
 [ O
 ] O
-http://t.cn/RqsYJde I-neutral
+http://t.cn/RqsYJde O
  
 爱上 O
 这个 O
@@ -412,7 +412,7 @@ RVIctYs O
 网易 B-neutral
 云 I-neutral
 音乐 I-neutral
-） I-neutral
+） O
  
 谢逊 B-negative
 已成 I-negative
@@ -447,7 +447,7 @@ RVIctYs O
 队伍 I-negative
 中 O
 去 O
-。 I-neutral
+。 O
  
 #360手机助手现金红包 B-negative
 # O
@@ -471,10 +471,10 @@ RVIctYs O
 也 O
 快 O
 来 O
-抢 I-neutral
-吧 I-neutral
-！ I-neutral
-http://t.cn/RVUl9nm I-neutral
+抢 O
+吧 O
+！ O
+http://t.cn/RVUl9nm O
  
 西安 B-positive
 仁爱 I-positive
@@ -490,7 +490,7 @@ http://t.cn/RVUl9nm I-neutral
 专家 O
 组成员 O
 。 O
-A I-neutral
+A O
  
 『 B-positive
 古典舞 I-positive
@@ -509,8 +509,8 @@ _ I-neutral
 00M_h I-neutral
 . I-neutral
 264 I-neutral
-』 I-neutral
-http://t.cn/RVUl5Pq I-neutral
+』 I-negative
+http://t.cn/RVUl5Pq I-negative
  
 千言万语 O
 ， O
@@ -532,7 +532,7 @@ http://t.cn/RVUl5Pq I-neutral
 http://t.cn/RqFvkxM O
 加油 O
 吧 O
-。 I-neutral
+。 O
  
 【 O
 lamy O
@@ -559,9 +559,9 @@ lamy O
 可以 O
 买 O
 到 O
-5到6支 B-neutral
-！ I-neutral
-b I-neutral
+5到6支 O
+！ O
+b O
  
 今年 O
 的 O
@@ -626,7 +626,7 @@ Cookson I-positive
 礼仪 O
 标准 O
 。 O
-” I-neutral
+” O
  
 出 O
 二手 O
@@ -685,7 +685,7 @@ Cookson I-positive
 谢菲尔德 O
 跳蚤 O
 街 O
-http://t.cn/RU1U56g I-neutral
+http://t.cn/RU1U56g O
  
 开心 O
 7 O
@@ -705,7 +705,7 @@ RVzBNNy O
 网易 B-neutral
 云 I-neutral
 音乐 I-neutral
-） I-neutral
+） O
  
 装饰 O
 Tips O
@@ -734,7 +734,7 @@ Tips O
 卫生间 O
 干净 O
 清爽 O
-。 I-neutral
+。 O
  
 每年 O
 我 O
@@ -763,7 +763,7 @@ Tips O
 你 O
 的 O
 的 O
-～ I-neutral
+～ O
  
 莫道 B-negative
 醉人 I-negative
@@ -781,9 +781,9 @@ Tips O
 电影 B-positive
 嫌疑人 I-positive
 x I-positive
-的 O
-献身 B-neutral
-# I-neutral
+的 I-positive
+献身 I-positive
+# O
  
 但是 O
 我 O
@@ -838,10 +838,10 @@ x I-positive
 大盘 O
 ， O
 但是 O
-炒股 B-positive
-是 I-positive
-大 I-positive
-概率 I-positive
+炒股 B-neutral
+是 I-neutral
+大 I-neutral
+概率 I-neutral
 的 O
 事情 O
 ， O
@@ -868,8 +868,8 @@ x I-positive
 他 O
 ， O
 不 O
-逆势 B-neutral
-操作 I-neutral
+逆势 B-negative
+操作 I-negative
  
 去年 O
 十月十日 O
@@ -886,8 +886,8 @@ b I-negative
 [ O
 二哈 O
 ] O
-今年 I-neutral
-呢 I-neutral
+今年 O
+呢 O
  
 # O
 哟 O
@@ -908,10 +908,10 @@ b I-negative
 的 O
 男孩 B-positive
 亦 I-positive
-是 O
-顶天 B-neutral
-的 I-neutral
-男人 I-neutral
+是 I-positive
+顶天 I-positive
+的 O
+男人 O
  
 世上 B-negative
 最贵 I-negative
@@ -953,7 +953,7 @@ b I-negative
 ] O
 [ O
 心 O
-] I-neutral
+] O
  
 我 O
 分享 O
@@ -966,7 +966,7 @@ b I-negative
 多少 O
 时间 O
 》 O
-http://t.cn/zQhKtUy I-neutral
+http://t.cn/zQhKtUy O
  
 # O
 阴阳师 B-positive
@@ -999,7 +999,7 @@ http://t.cn/zQhKtUy I-neutral
 血统 O
 [ O
 ] O
-http://t.cn/RcSYU1q I-neutral
+http://t.cn/RcSYU1q O
  
 【 O
 王宝强 B-neutral
@@ -1048,7 +1048,7 @@ http://t.cn/RcSYU1q I-neutral
 的 O
 话题 O
 。 O
-http://t.cn/RVyorfC I-neutral
+http://t.cn/RVyorfC O
  
 原来 O
 是 O
@@ -1070,7 +1070,7 @@ RVqtJpu O
 网易 B-neutral
 云 I-neutral
 音乐 I-neutral
-） I-neutral
+） O
  
 找到 O
 了 O
@@ -1094,8 +1094,8 @@ RVqtJpu O
 的 O
 外卖 O
 [ O
-馋嘴 I-neutral
-] I-neutral
+馋嘴 O
+] O
  
 【 O
 奔驰 B-neutral
@@ -1171,7 +1171,7 @@ ML I-neutral
 听 O
 得 O
 清楚 O
-。 I-neutral
+。 O
  
 【 O
 来 B-negative
@@ -1206,7 +1206,7 @@ ML I-neutral
 桃花 O
 、 O
 青稞 O
-田 B-positive
+田 O
 与 O
 藏 O
 民居 O
@@ -1222,7 +1222,7 @@ ML I-neutral
 世外桃源 O
 一样 O
 迷人 O
-。 I-neutral
+。 O
  
 三星 B-negative
 s7 I-negative
@@ -1245,7 +1245,7 @@ s7 I-negative
 市场 O
 的 O
 事件 O
-营销 I-neutral
+营销 O
  
 # O
 阴阳师 B-positive
@@ -1278,7 +1278,7 @@ s7 I-negative
 血统 O
 [ O
 ] O
-http://t.cn/RcSYU1q I-neutral
+http://t.cn/RcSYU1q O
  
 每天 O
 都 O
@@ -1305,8 +1305,8 @@ get I-negative
 不到 O
 帅点 O
 [ O
-微笑 B-neutral
-] I-neutral
+微笑 O
+] O
  
 # O
 偶滴 B-positive
@@ -1316,7 +1316,7 @@ get I-negative
 向往 I-positive
 喜欢 O
 娜姐 O
-。 I-neutral
+。 O
  
 # O
 血色 B-negative
@@ -1341,7 +1341,7 @@ ali O
 … O
 麻利 O
 点 O
-。 I-neutral
+。 O
  
 睽违 B-negative
 两年 O
@@ -1411,7 +1411,7 @@ Dreamer I-negative
 放手 O
 的 O
 幸福 O
-。 I-neutral
+。 O
  
 【 O
 阿纳姆 O
@@ -1463,7 +1463,7 @@ Arnhem I-neutral
 高等 I-positive
 专业 I-positive
 大学 I-positive
-。 I-neutral
+。 O
  
 我们 O
 崇尚 O
@@ -1485,7 +1485,7 @@ Arnhem I-neutral
 一起 O
 并肩作战 O
 吧 O
-! I-neutral
+! O
  
 # O
 爱上 O
@@ -1526,11 +1526,11 @@ IP O
 的 O
 年 O
 表示 O
-赞叹 B-neutral
-[ I-neutral
-bofu I-neutral
-食神 I-neutral
-] I-neutral
+赞叹 O
+[ O
+bofu B-negative
+食神 I-negative
+] O
  
 八卦 O
 堂 O
@@ -1551,7 +1551,7 @@ bofu I-neutral
 八卦 O
 信息 O
 。 O
-即 I-neutral
+即 O
  
 # O
 青云 B-positive
@@ -1561,7 +1561,7 @@ bofu I-neutral
 这部 O
 剧 O
 真心 O
-不错 I-neutral
+不错 O
  
 【 O
 如意 O
@@ -1622,7 +1622,7 @@ http://t.cn/RVtEoEb O
 抢购 O
 地址 O
 ： O
-http://t.cn/RVVZXOs I-neutral
+http://t.cn/RVVZXOs O
  
 【 O
 广州 B-neutral
@@ -1634,8 +1634,8 @@ http://t.cn/RVVZXOs I-neutral
 】 O
 位于 O
 增城 B-neutral
-的 O
-3 O
+的 I-neutral
+3 I-neutral
 宗 O
 宅地 O
 起拍价 O
@@ -1661,7 +1661,7 @@ http://t.cn/RVVZXOs I-neutral
 http://t.cn/RVbI2jI（来自 O
 财新网 B-neutral
 客户端 I-neutral
-） I-neutral
+） O
  
 # O
 巴萨 B-positive
@@ -1671,9 +1671,9 @@ http://t.cn/RVbI2jI（来自 O
 在 O
 今天 O
 训练 O
-中 B-neutral
-的 I-neutral
-梅内 I-neutral
+中 O
+的 O
+梅内 O
  
 # O
 阴阳师 B-positive
@@ -1694,7 +1694,7 @@ http://t.cn/RVbI2jI（来自 O
 都 O
 害怕 O
 ！ O
-http://t.cn/Rcrp17I I-neutral
+http://t.cn/Rcrp17I O
  
 # O
 活埋 B-neutral
@@ -1724,7 +1724,7 @@ http://t.cn/Rcrp17I I-neutral
 很 O
 喜欢 O
 这 O
-角色 I-neutral
+角色 O
  
 # O
 阴阳师 B-positive
@@ -1751,7 +1751,7 @@ SSR O
 ！ O
 [ O
 ] O
-http://t.cn/RcSYU1q I-neutral
+http://t.cn/RcSYU1q O
  
 你 O
 丑 O
@@ -1773,8 +1773,8 @@ i O
 点此 O
 进入 O
 > O
-> I-neutral
-http://t.cn/RVyKPPu I-neutral
+> O
+http://t.cn/RVyKPPu O
  
 这 O
 是 O
@@ -1839,7 +1839,7 @@ Lyu I-positive
 、 O
 帽子 O
 等 O
-。 I-neutral
+。 O
  
 在 O
 广告 O
@@ -1865,8 +1865,8 @@ Lyu I-positive
 ？ O
 @ O
 整形 O
-医生 I-neutral
-蔡文静 I-neutral
+医生 O
+蔡文静 O
  
 直播 O
 、 O
@@ -1889,9 +1889,9 @@ Lyu I-positive
 TA O
 ， O
 你 O
-必不可少 B-neutral
-！ I-neutral
-http://t.cn/RAezcr7 I-neutral
+必不可少 O
+！ O
+http://t.cn/RAezcr7 O
  
 原来 O
 和 O
@@ -1918,10 +1918,10 @@ http://t.cn/RAezcr7 I-neutral
 小 O
 鲜肉 O
 是 O
-哪位 B-neutral
-？ I-neutral
-” I-neutral
-http://t.cn/RtbiQ7X I-neutral
+哪位 O
+？ O
+” O
+http://t.cn/RtbiQ7X O
  
 # O
 你 O
@@ -1948,8 +1948,8 @@ http://t.cn/RtbiQ7X I-neutral
 溢于言表 I-negative
 。 O
 [ O
-困 I-neutral
-] I-neutral
+困 O
+] O
  
 那些 O
 年 O
@@ -1984,7 +1984,7 @@ t O
 cn O
 / O
 RcVum31 O
-http://t.cn/R2Wx665 I-neutral
+http://t.cn/R2Wx665 O
  
 Victorywon B-negative
 ' O
@@ -2009,9 +2009,9 @@ Moore B-negative
 走向 B-negative
 胜利 I-negative
 。 O
-- I-neutral
-- I-neutral
-穆尔 I-neutral
+- O
+- O
+穆尔 O
  
 巴黎 B-positive
 设计 I-positive
@@ -2065,7 +2065,7 @@ object O
 便 O
 逐渐 O
 消失 O
-。 I-neutral
+。 O
  
 # O
 SWIN B-positive
@@ -2091,8 +2091,8 @@ SWIN B-positive
 出 O
 道 O
 [ O
-笑哈哈 I-neutral
-] I-neutral
+笑哈哈 O
+] O
  
 # O
 爱上 O
@@ -2144,7 +2144,7 @@ din O
 果然 O
 很棒 O
 的 O
-。 I-neutral
+。 O
  
 你 O
 真 O
@@ -2161,8 +2161,8 @@ din O
 》 O
 [ O
 bed O
-蹬腿 B-neutral
-] I-neutral
+蹬腿 O
+] O
  
 【 O
 广州 B-neutral
@@ -2174,8 +2174,8 @@ bed O
 】 O
 位于 O
 增城 B-neutral
-的 O
-3 O
+的 I-neutral
+3 I-neutral
 宗 O
 宅地 O
 起拍价 O
@@ -2197,8 +2197,8 @@ bed O
 成交 O
 溢价 O
 率 O
-... I-neutral
-http://t.cn/RVbI2jI（来自财新网客户端） I-neutral
+... O
+http://t.cn/RVbI2jI（来自财新网客户端） O
  
 [ O
 偷乐 O
@@ -2263,7 +2263,7 @@ http://t.cn/RVbI2jI（来自财新网客户端） I-neutral
 多 O
 。 O
 晚安 O
-。 I-neutral
+。 O
  
 坚持 O
 运动 O
@@ -2290,7 +2290,7 @@ http://t.cn/RVbI2jI（来自财新网客户端） I-neutral
 ” O
 的 O
 称号 O
-http://t.cn/RVyKMBe I-neutral
+http://t.cn/RVyKMBe O
  
 # O
 阴阳师 B-positive
@@ -2311,7 +2311,7 @@ http://t.cn/RVyKMBe I-neutral
 都 O
 害怕 O
 ！ O
-http://t.cn/Rcrp17I I-neutral
+http://t.cn/Rcrp17I O
  
 我要 O
 写 O
@@ -2322,8 +2322,8 @@ http://t.cn/Rcrp17I I-neutral
 啦 O
 A O
 梦 O
-微笑 B-neutral
-] I-neutral
+微笑 O
+] O
  
 # O
 垫底 B-negative
@@ -2348,8 +2348,8 @@ A O
 的 O
 哭 O
 点 O
-有点 I-neutral
-多 I-neutral
+有点 O
+多 O
  
 爱上 O
 蔡康永 O
@@ -2361,8 +2361,8 @@ A O
 诗书 I-negative
 气自华 I-negative
 [ O
-强 I-neutral
-] I-neutral
+强 O
+] O
  
 @ O
 杨洋 B-positive
@@ -2393,7 +2393,7 @@ icon I-positive
 棒棒 O
 哒 O
 ！ O
-http://t.cn/Rz5ibuw I-neutral
+http://t.cn/Rz5ibuw O
  
 # O
 华为 B-neutral
@@ -2422,8 +2422,8 @@ http://t.cn/Rz5ibuw I-neutral
 吧 O
 ～ O
 独家 O
-记忆 I-neutral
-http://t.cn/RLCKCUo I-neutral
+记忆 O
+http://t.cn/RLCKCUo O
  
 # O
 无锡 B-positive
@@ -2446,7 +2446,7 @@ http://t.cn/RLCKCUo I-neutral
 马着 O
 慢慢 O
 听 O
-http://t.cn/RVU4UwF I-neutral
+http://t.cn/RVU4UwF O
  
 波希米亚 B-positive
 石榴石 I-positive
@@ -2477,7 +2477,7 @@ http://t.cn/RVU4UwF I-neutral
 的 O
 爱情故事 O
 ... O
-湖 I-neutral
+湖 O
  
 # O
 电影 B-positive
@@ -2496,8 +2496,8 @@ http://t.cn/RVU4UwF I-neutral
 这部 O
 剧能 O
 引起 O
-收视 I-neutral
-狂潮 I-neutral
+收视 O
+狂潮 O
  
 特地 B-negative
 逃 I-negative
@@ -2609,8 +2609,8 @@ http://t.cn/z82Bh6c I-neutral
 怒骂 O
 ] O
 [ O
-怒骂 I-neutral
-] I-neutral
+怒骂 O
+] O
  
 《 O
 阿 B-positive
@@ -2624,10 +2624,10 @@ U I-positive
 少儿 B-negative
 主持人 I-negative
 真人 O
-演绎 B-positive
-二次元 I-positive
-阿 B-positive
-U I-positive
+演绎 B-negative
+二次元 I-negative
+阿 O
+U O
 主题曲 O
 “ O
 我 O
@@ -2638,13 +2638,13 @@ U I-positive
 盘点 B-neutral
 国庆 I-neutral
 长假 I-neutral
-到底 I-neutral
-发生 I-neutral
-了 I-neutral
-什么 I-neutral
-？ I-neutral
-！ I-neutral
-http://t.cn/RVbOZjx I-neutral
+到底 O
+发生 O
+了 O
+什么 O
+？ O
+！ O
+http://t.cn/RVbOZjx O
  
 # O
 阴阳师 B-positive
@@ -2663,9 +2663,9 @@ http://t.cn/RVbOZjx I-neutral
 我 O
 自己 O
 都 O
-害怕 I-neutral
-！ I-neutral
-http://t.cn/R54aJnq！ I-neutral
+害怕 O
+！ O
+http://t.cn/R54aJnq！ O
  
 在 O
 山 O
@@ -2694,7 +2694,7 @@ http://t.cn/R54aJnq！ I-neutral
 ] O
 [ O
 二哈 O
-] I-neutral
+] O
  
 。 O
 笛 B-neutral
@@ -2733,7 +2733,7 @@ DIFO O
 原液 I-neutral
 修复 I-neutral
 发膜 I-neutral
-# I-neutral
+# O
  
 放弃 O
 # O
@@ -2753,8 +2753,8 @@ DIFO O
 t O
 . O
 cn O
-/ I-neutral
-RVqVRyi I-neutral
+/ O
+RVqVRyi O
  
 大泉 B-negative
 邀请 O
@@ -2848,8 +2848,8 @@ RVqoD8T O
 ## O
 股市 O
 ## O
-上证指数 B-neutral
-# I-neutral
+上证指数 O
+# O
  
 # O
 赵丽颖 B-positive
@@ -2869,10 +2869,10 @@ RVqoD8T O
 赵丽颖 B-positive
 记忆 O
 被 O
-掏空 I-neutral
-女神 I-neutral
-啊 I-neutral
-！ I-neutral
+掏空 O
+女神 O
+啊 O
+！ O
  
 最近 O
 老是 B-negative
@@ -2962,7 +2962,7 @@ QQ O
 加速 O
 升 O
 ！ O
-) I-neutral
+) O
  
 黑发 B-negative
 不知 O
@@ -2989,10 +2989,10 @@ QQ O
 无鱼 O
 。 O
 《 O
-吕氏春秋 B-neutral
-· I-neutral
-义赏 I-neutral
-》 I-neutral
+吕氏春秋 B-negative
+· I-negative
+义赏 I-negative
+》 O
  
 #全民K歌 O
 # O
@@ -3019,8 +3019,8 @@ Freedom I-positive
 http://t.cn/RVbG6fK O
 ( O
 来自 O
-@全民K歌 I-neutral
-) I-neutral
+@全民K歌 O
+) O
  
 # O
 青云 B-positive
@@ -3043,8 +3043,8 @@ http://t.cn/RVbG6fK O
 他哈 O
 。 O
 [ O
-七夕 B-neutral
-] I-neutral
+七夕 O
+] O
  
 咦 O
 ， O
@@ -3056,8 +3056,8 @@ http://t.cn/RVbG6fK O
 一下 O
 16级纳新 O
 [ O
-害羞 I-neutral
-] I-neutral
+害羞 O
+] O
  
 我 O
 正在 O
@@ -3107,8 +3107,8 @@ http O
 t O
 . O
 cn O
-/ I-neutral
-Rcrp1wf I-neutral
+/ O
+Rcrp1wf O
  
 # O
 偶滴 B-positive
@@ -3138,7 +3138,7 @@ Rcrp1wf I-neutral
 一定 O
 要 O
 记住 O
-。 I-neutral
+。 O
  
 【 O
 罗志祥 B-positive
@@ -3192,8 +3192,8 @@ Rcrp1wf I-neutral
 ， O
 十分 O
 贵气 O
-。 I-neutral
-http://t.cn/RVyo1My I-neutral
+。 O
+http://t.cn/RVyo1My O
  
 B O
 站 O
@@ -3212,10 +3212,10 @@ B O
 是 O
 翻拍 O
 同名 O
-美剧 B-neutral
-的 I-neutral
-cold I-neutral
-case I-neutral
+美剧 B-negative
+的 I-negative
+cold I-negative
+case I-negative
  
 【 O
 安阳县 B-neutral
@@ -3226,8 +3226,8 @@ case I-neutral
 产业 I-neutral
 升级 O
 】 O
-: I-neutral
-http://t.cn/RVyJfjy I-neutral
+: O
+http://t.cn/RVyJfjy O
  
 想 O
 吃 O
@@ -3280,7 +3280,7 @@ http://t.cn/RVyJfjy I-neutral
 还有 O
 。 O
 。 O
-。 I-neutral
+。 O
  
 一颗 O
 骚动 O
@@ -3289,7 +3289,7 @@ http://t.cn/RVyJfjy I-neutral
 去 O
 美国 O
 的 O
-心 I-neutral
+心 O
  
 # O
 神奇 B-positive
@@ -3323,7 +3323,7 @@ http://t.cn/RVyJfjy I-neutral
 都 O
 喜欢 O
 看 O
-。 I-neutral
+。 O
  
 # O
 偶滴 B-positive
@@ -3346,7 +3346,7 @@ http://t.cn/RVyJfjy I-neutral
 ， O
 喜欢 O
 极了 O
-。 I-neutral
+。 O
  
 # O
 工院 B-negative
@@ -3379,7 +3379,7 @@ http://t.cn/RVyJfjy I-neutral
 福建 B-neutral
 工程学院 I-neutral
 那些 I-neutral
-事 I-neutral
+事 O
  
 【 O
 奔驰 B-neutral
@@ -3455,7 +3455,7 @@ ML I-neutral
 听 O
 得 O
 清楚 O
-。 I-neutral
+。 O
  
 # O
 李纯 O
@@ -3479,7 +3479,7 @@ ML I-neutral
 浓厚 O
 的 O
 爱 O
-。 I-neutral
+。 O
  
 # O
 无锡 B-positive
@@ -3502,11 +3502,11 @@ ML I-neutral
 马着 O
 慢慢 O
 听 O
-http://t.cn/RVU4UwF I-neutral
+http://t.cn/RVU4UwF O
  
 17 O
 分享 O
-LAY B-positive
+LAY O
 的 O
 歌曲 O
 《 O
@@ -3518,7 +3518,7 @@ need I-positive
 http://t.cn/RVw5dBd（分享自@ O
 虾米 B-neutral
 音乐 I-neutral
-） I-neutral
+） O
  
 @ O
 宋 B-negative
@@ -3545,8 +3545,8 @@ plasma O
 带 O
 暗表本 O
 结果 O
-忘得 B-neutral
-一塌糊涂 I-neutral
+忘得 B-negative
+一塌糊涂 I-negative
  
 # O
 斯里兰卡 B-neutral
@@ -3560,7 +3560,7 @@ t O
 . O
 cn O
 / O
-RV443n7 I-neutral
+RV443n7 O
  
 @ O
 成都市 B-negative
@@ -3624,11 +3624,11 @@ RV443n7 I-neutral
 故辩 I-negative
 ！ O
 视频 O
-为证 B-neutral
-！ I-neutral
-http://t.cn/z8Vky25 I-neutral
-http://t.cn/RVqqer7 I-neutral
-. I-neutral
+为证 O
+！ O
+http://t.cn/z8Vky25 B-negative
+http://t.cn/RVqqer7 I-negative
+. O
  
 # O
 疯狂 B-positive
@@ -3650,9 +3650,9 @@ G I-positive
 见识 O
 。 O
 [ O
-阿拉 B-neutral
-兔 I-neutral
-] I-neutral
+阿拉 B-negative
+兔 I-negative
+] O
  
 【 O
 奔驰 B-neutral
@@ -3728,7 +3728,7 @@ ML I-neutral
 听 O
 得 O
 清楚 O
-。 I-neutral
+。 O
  
 161007 B-negative
 釜 I-negative
@@ -3752,9 +3752,9 @@ Part I-negative
 金泰 B-neutral
 璃 I-neutral
 # O
-cr B-neutral
-. I-neutral
-@mysweetpeartree I-neutral
+cr O
+. I-negative
+@mysweetpeartree I-negative
  
 小灯 B-neutral
 到 O
@@ -3775,7 +3775,7 @@ cr B-neutral
 ] O
 [ O
 二哈 O
-] I-neutral
+] O
  
 # O
 偶滴 B-positive
@@ -3796,7 +3796,7 @@ cr B-neutral
 印象 O
 诱惑 O
 福利 O
-。 I-neutral
+。 O
  
 【 O
 你 O
@@ -3866,7 +3866,7 @@ ps O
 都 O
 适合 O
 的 O
-哦 I-neutral
+哦 O
  
 # O
 亚洲 B-neutral
@@ -3915,7 +3915,7 @@ ps O
 吧 O
 > O
 > O
-http://t.cn/RZYgTD0 I-neutral
+http://t.cn/RZYgTD0 O
  
 世上 B-negative
 最贵 I-negative
@@ -3957,7 +3957,7 @@ http://t.cn/RZYgTD0 I-neutral
 ] O
 [ O
 心 O
-] I-neutral
+] O
  
 # O
 血色 B-negative
@@ -3981,11 +3981,11 @@ bm O
 ~ O
 ！ O
 行动 O
-起来 I-neutral
+起来 O
  
 【 O
-smart B-positive
-将 I-positive
+smart O
+将 O
 推出 I-neutral
 SUV I-neutral
 与 O
@@ -4052,7 +4052,7 @@ SUV I-neutral
 1.0 O
 T O
 发动机 O
-。 I-neutral
+。 O
  
 分享 O
 单曲 O
@@ -4070,7 +4070,7 @@ RVVbjVe O
 网易 B-neutral
 云 I-neutral
 音乐 I-neutral
-） I-neutral
+） O
  
 # O
 吾 O
@@ -4145,7 +4145,7 @@ RVVbjVe O
 ... O
 全文 O
 ： O
-http://m.weibo.cn/5050839866/4028959467263118 I-neutral
+http://m.weibo.cn/5050839866/4028959467263118 O
  
 上海 B-neutral
 解放后 I-neutral
@@ -4225,7 +4225,7 @@ http://m.weibo.cn/5050839866/4028959467263118 I-neutral
 他 O
 没 O
 去 O
-。 I-neutral
+。 O
  
 # O
 丝绸之路 B-negative
@@ -4260,15 +4260,15 @@ cry O
 ] O
 [ O
 笑 O
-cry I-neutral
-] I-neutral
+cry O
+] O
  
 印度 B-neutral
 真是 O
 好 O
-地方 I-neutral
-！ I-neutral
-http://t.cn/Rqz4rp7 I-neutral
+地方 O
+！ O
+http://t.cn/Rqz4rp7 O
  
 在 O
 一切 O
@@ -4335,7 +4335,7 @@ http://t.cn/Rqz4rp7 I-neutral
 美好 O
 的 O
 出现 O
-。 I-neutral
+。 O
  
 【 O
 L O
@@ -4348,7 +4348,7 @@ A O
 美丽 O
 俏佳人 B-neutral
 现场 I-neutral
-。 I-neutral
+。 O
  
 # O
 SNH B-positive
@@ -4358,7 +4358,7 @@ SNH B-positive
 #这好美丽的小姐这披风真漂亮SNH48这个组合我很喜欢说得叫人为之动容 I-positive
 ， O
 真情流露 O
-。 I-neutral
+。 O
  
 # O
 支付宝 B-positive
@@ -4381,7 +4381,7 @@ SNH B-positive
 多功能 O
 和 O
 服务 O
-。 I-neutral
+。 O
  
 【 O
 柳州 B-neutral
@@ -4458,7 +4458,7 @@ SNH B-positive
 六是 O
 温室 O
 广场 O
-。 I-neutral
+。 O
  
 # O
 阴阳师 B-positive
@@ -4481,7 +4481,7 @@ SNH B-positive
 了 O
 （ O
 ） O
-http://t.cn/RqsYJde I-neutral
+http://t.cn/RqsYJde O
  
 # O
 斑马 O
@@ -4501,7 +4501,7 @@ http://t.cn/RqsYJde I-neutral
 ] O
 斑马 O
 好 O
-厉害 I-neutral
+厉害 O
  
 【 O
 比亚迪 O
@@ -4571,7 +4571,7 @@ CS I-negative
 尺寸 O
 属 O
 中等水平 O
-。 I-neutral
+。 O
  
 大量 O
 批发 B-negative
@@ -4586,9 +4586,9 @@ CS I-negative
 % O
 正宗 O
 天然 O
-沉香 B-neutral
-线香 I-neutral
-http://t.cn/RVItqsi I-neutral
+沉香 B-negative
+线香 I-negative
+http://t.cn/RVItqsi I-negative
  
 张若昀 B-neutral
 穿 O
@@ -4606,8 +4606,8 @@ http://t.cn/RVItqsi I-neutral
 污 O
 ] O
 [ O
-污 B-neutral
-] I-neutral
+污 O
+] O
  
 《 O
 赴美 O
@@ -4635,7 +4635,7 @@ http://t.cn/RVItqsi I-neutral
 [ O
 二哈 O
 ] O
-http://t.cn/RV4UAho I-neutral
+http://t.cn/RV4UAho O
  
 我 O
 上传 O
@@ -4664,9 +4664,9 @@ http://t.cn/RVb0YQt（来 O
 我 O
 更 O
 多 O
-精彩视频 I-neutral
-： I-neutral
-http://t.cn/RVL8XKX） I-neutral
+精彩视频 O
+： O
+http://t.cn/RVL8XKX） O
  
 〈 B-negative
 Lamps I-negative
@@ -4709,14 +4709,14 @@ LAMPS B-negative
 ￥ O
 AANNmAWh O
 ￥ O
-http://t.cn/RVUWp9a B-neutral
-@ashui I-neutral
-- I-neutral
-AS I-neutral
-@蛋挞子Eggtartko I-neutral
-@elfagogogo I-neutral
-- I-neutral
-LAMPS I-neutral
+http://t.cn/RVUWp9a B-negative
+@ashui I-negative
+- O
+AS B-negative
+@蛋挞子Eggtartko I-negative
+@elfagogogo I-negative
+- I-negative
+LAMPS I-negative
  
 为什么 O
 总能 O
@@ -4733,11 +4733,11 @@ shadows I-neutral
 我 O
 看 O
 [ O
-哆 B-neutral
-啦 I-neutral
-A I-neutral
-梦 I-neutral
-害怕 I-neutral
+哆 O
+啦 O
+A O
+梦 O
+害怕 O
 ] O
 既 O
 追月海 B-positive
@@ -4776,7 +4776,7 @@ A O
 吹 I-neutral
 我团 I-neutral
 迷妹 I-neutral
-（ I-neutral
+（ O
  
 我 O
 参与 O
@@ -4822,8 +4822,8 @@ TFBOYS B-positive
 来 O
 表态 O
 吧 O
-~ I-neutral
-http://t.cn/RVzkDGZ I-neutral
+~ O
+http://t.cn/RVzkDGZ O
  
 韩国 B-neutral
 可以 O
@@ -4841,9 +4841,9 @@ http://t.cn/RVzkDGZ I-neutral
 ？ O
 撞 O
 得 O
-好 B-neutral
-！ I-neutral
-http://t.cn/RVUW0LL I-neutral
+好 O
+！ O
+http://t.cn/RVUW0LL O
  
 # O
 阴阳师 B-positive
@@ -4865,8 +4865,8 @@ http://t.cn/RVUW0LL I-neutral
 了不起 O
 ！ O
 （ O
-） I-neutral
-http://t.cn/RcXXIsB I-neutral
+） O
+http://t.cn/RcXXIsB O
  
 [ O
 广告 O
@@ -4897,7 +4897,7 @@ http://t.cn/RVt4JNI O
 @ O
 母婴 B-negative
 之家 I-negative
-官网 I-neutral
+官网 O
  
 # O
 赵丽颖 B-positive
@@ -4924,7 +4924,7 @@ http://t.cn/RVt4JNI O
 在 O
 这里 O
 喜欢 O
-赵丽颖 I-neutral
+赵丽颖 B-positive
  
 当 O
 我们 O
@@ -5007,7 +5007,7 @@ Zhaohu I-negative
 轻松 O
 取出 O
 插头 O
-。 I-neutral
+。 O
  
 高帮 B-positive
 设计 I-positive
@@ -5032,7 +5032,7 @@ mix I-neutral
 街头 O
 新 O
 感觉 O
-。 I-neutral
+。 O
  
 # O
 阴阳师 B-positive
@@ -5064,7 +5064,7 @@ SAMA I-positive
 ！ O
 [ O
 ] O
-http://t.cn/RcSYU1q I-neutral
+http://t.cn/RcSYU1q O
  
 据 O
 日本 B-neutral
@@ -5113,7 +5113,7 @@ com O
 十分 O
 滑稽 O
 可爱 O
-。 I-neutral
+。 O
  
 驴 O
 得 O
@@ -5195,14 +5195,14 @@ com O
 ， O
 撩人 O
 的 O
-疯狂 B-positive
+疯狂 O
 都 O
 怪 O
 这 O
 guitar B-negative
 弹得 I-negative
-太 I-neutral
-凄凉 I-neutral
+太 O
+凄凉 O
  
 # O
 电影 B-positive
@@ -5226,7 +5226,7 @@ guitar B-negative
 比较 O
 喜欢 O
 的 O
-吧 I-neutral
+吧 O
  
 我 O
 参与 O
@@ -5262,8 +5262,8 @@ QQ B-neutral
 来 O
 表态 O
 吧 O
-~ I-neutral
-http://t.cn/RV44UoX I-neutral
+~ O
+http://t.cn/RV44UoX O
  
 一个 O
 主动 O
@@ -5302,7 +5302,7 @@ DOTA B-negative
 她 O
 杀 O
 成狗 O
-。 I-neutral
+。 O
  
 考拉 B-positive
 直购 I-positive
@@ -5316,9 +5316,9 @@ DOTA B-negative
 一手 O
 奶粉 O
 直 O
-邮到 B-neutral
-你 I-neutral
-手中 I-neutral
+邮到 O
+你 O
+手中 O
 ， O
 而 O
 不是 O
@@ -5379,9 +5379,9 @@ DOTA B-negative
 进口 O
 奶粉 B-negative
 VX I-negative
-： O
-kaola B-neutral
-0532 I-neutral
+： I-negative
+kaola I-negative
+0532 O
  
 【 O
 Hello B-neutral
@@ -5452,7 +5452,7 @@ Kitty O
 限量 O
 发售 O
 400个 O
-。 I-neutral
+。 O
  
 # O
 网红 O
@@ -5484,8 +5484,8 @@ Kitty O
 ， O
 我们 O
 的 O
-莫少聪 B-neutral
-啊 I-neutral
+莫少聪 O
+啊 I-negative
  
 乐高 B-neutral
 创意 B-neutral
@@ -5555,8 +5555,8 @@ Kitty O
 生闷气 O
 。 O
 [ O
-嘻嘻 I-neutral
-] I-neutral
+嘻嘻 O
+] O
  
 # O
 张靓颖 B-negative
@@ -5581,9 +5581,9 @@ Kitty O
 的 O
 味道 O
 [ O
-音乐 B-neutral
-] I-neutral
-# I-neutral
+音乐 O
+] O
+# O
  
 菲尔 B-neutral
 普斯 I-neutral
@@ -5593,10 +5593,10 @@ Kitty O
 23 O
 金创 O
 历史 O
-新动里 O
-约 O
-今天上午 B-neutral
-， I-neutral
+新动里 B-positive
+约 I-positive
+今天上午 I-positive
+， O
  
 @TFBOYS O
 - O
@@ -5629,7 +5629,7 @@ Kitty O
 棒棒 O
 哒 O
 ！ O
-http://t.cn/RZkcUcv I-neutral
+http://t.cn/RZkcUcv O
  
 汕尾 B-negative
 ， O
@@ -5645,15 +5645,15 @@ http://t.cn/RZkcUcv I-neutral
 空气质量 O
 ： O
 优 O
-。 I-neutral
+。 O
  
 分享 O
 ZER O
 0 O
 的 O
 歌曲 O
-http://t.cn/RVLxHV2 B-neutral
-http://t.cn/z8LN73V I-neutral
+http://t.cn/RVLxHV2 B-negative
+http://t.cn/z8LN73V I-negative
  
 我刚 O
 更新 O
@@ -5698,7 +5698,7 @@ V I-positive
 下载 O
 地址 O
 ： O
-http://t.cn/RVyKxD3 I-neutral
+http://t.cn/RVyKxD3 O
  
 好消息 B-negative
 ， O
@@ -5727,8 +5727,8 @@ RcOpP5W O
 走过 O
 路过 O
 不要 O
-错过 I-neutral
-！ I-neutral
+错过 O
+！ O
  
 " O
 Your B-negative
@@ -5768,7 +5768,7 @@ Stories I-neutral
 》 O
 （ O
 2009 O
-） I-neutral
+） O
  
 人生 O
 的 O
@@ -5792,7 +5792,7 @@ Stories I-neutral
 。 O
 — O
 — O
-徐玮 I-neutral
+徐玮 B-neutral
  
 【 O
 沙茶 B-positive
@@ -5874,7 +5874,7 @@ Stories I-neutral
 葱花 O
 ， O
 出锅 O
-。 I-neutral
+。 O
  
 这 O
 款 O
@@ -5903,8 +5903,8 @@ Stories I-neutral
 后人 B-neutral
 肉回 I-neutral
 深圳 B-neutral
-哇 I-neutral
-http://t.cn/z8sKUgl I-neutral
+哇 O
+http://t.cn/z8sKUgl O
  
 亮点 B-negative
 在于 O
@@ -5930,7 +5930,7 @@ lxhx O
 关注 O
 - O
 靓车 O
-精选 I-neutral
+精选 O
  
 永生 O
 钢笔 B-neutral
@@ -5940,7 +5940,7 @@ lxhx O
 练字 O
 金属 O
 特细 O
-铱金笔 I-neutral
+铱金笔 O
  
 【 O
 捷豹 B-positive
@@ -6014,7 +6014,7 @@ B O
 辅助 I-positive
 技术 I-positive
 上 O
-。 I-neutral
+。 O
  
 瓜州 B-negative
 今天 O
@@ -6061,7 +6061,7 @@ http://t.cn/RyhKpzp I-neutral
 小丸子 I-negative
 @ O
 傷魂 O
-月 I-neutral
+月 O
  
 崩溃 O
 → O
@@ -6078,8 +6078,8 @@ http://t.cn/RyhKpzp I-neutral
 请问 B-negative
 麦当劳 I-negative
 怎么 O
-走 I-neutral
-. I-neutral
+走 O
+. O
  
 其实 O
 心里 O
@@ -6118,7 +6118,7 @@ http://t.cn/RVbVffU O
 网易 B-neutral
 云 I-neutral
 音乐 I-neutral
-） I-neutral
+） O
  
 # O
 电影 B-positive
@@ -6141,7 +6141,7 @@ http://t.cn/RVbVffU O
 知道 O
 人生 O
 的 O
-精彩 I-neutral
+精彩 O
  
 http://t.cn/RVwMwzL我正在给 O
 阿里 B-neutral
@@ -6162,7 +6162,7 @@ need I-neutral
 一起 O
 冲榜 O
 吧 O
-。 I-neutral
+。 O
  
 @TFBOYS O
 - O
@@ -6197,9 +6197,9 @@ http://t.cn/RZkcUUe O
 # O
 树读 O
 [ O
-音乐 B-neutral
-] I-neutral
-# I-neutral
+音乐 O
+] O
+# O
  
 医者 B-negative
 善于 O
@@ -6213,11 +6213,11 @@ http://t.cn/RZkcUUe O
 周 O
 学海 O
 《 O
-读医 B-neutral
-随笔 I-neutral
-· I-neutral
-证治类 I-neutral
-》 I-neutral
+读医 B-negative
+随笔 I-negative
+· I-negative
+证治类 I-negative
+》 O
  
 #疯狂电影城召G令 O
 # O
@@ -6246,8 +6246,8 @@ http://t.cn/RZkcUUe O
 ， O
 队长 O
 强 O
-呀 I-neutral
-蚊戮 I-neutral
+呀 O
+蚊戮 O
  
 我 O
 刚发 O
@@ -6267,7 +6267,7 @@ http://t.cn/RV4fYJb（通过 O
 美拍 O
 # O
 拍摄 O
-） I-neutral
+） O
  
 … O
 分享 O
@@ -6286,7 +6286,7 @@ RVItIvL O
 网易 B-neutral
 云 I-neutral
 音乐 I-neutral
-） I-neutral
+） O
  
 今天 O
 我 O
@@ -6312,8 +6312,8 @@ RVItIvL O
 色 O
 ] O
 [ O
-色 I-neutral
-] I-neutral
+色 O
+] O
  
 / O
 / O
@@ -6346,7 +6346,7 @@ http://t.cn/RVySOPV O
 # O
 羡慕 O
 ... O
-期待 I-neutral
+期待 O
  
 【 O
 广南 O
@@ -6393,7 +6393,7 @@ http://t.cn/RVySOPV O
 ， O
 总面积 O
 68平方公里 O
-。 I-neutral
+。 O
  
 住 O
 ： O
@@ -6437,7 +6437,7 @@ http://t.cn/RVySOPV O
 两 O
 高山 B-negative
 湖泊 I-negative
-。 I-neutral
+。 O
  
 # O
 疯狂 B-positive
@@ -6460,9 +6460,9 @@ G O
 甩手 O
 ] O
 比 O
-我 B-neutral
-这 I-neutral
-90年的更嫩一些院挥 I-neutral
+我 O
+这 O
+90年的更嫩一些院挥 O
  
 【 O
 桑葚 B-negative
@@ -6543,7 +6543,7 @@ G O
 最好 O
 是 O
 玻璃瓶 O
-。 I-neutral
+。 O
  
 # O
 鹿晗 O
@@ -6594,7 +6594,7 @@ G O
 两周年 O
 快乐 O
 ! O
-@M鹿M I-neutral
+@M鹿M O
  
 我 O
 真不知道 O
@@ -6667,7 +6667,7 @@ G O
 是 O
 国内 O
 某小 O
-鲜肉 I-neutral
+鲜肉 O
  
 # O
 钟汉良 O
@@ -6698,8 +6698,8 @@ t O
 . O
 cn O
 / O
-zW5ipUD B-neutral
-15分钟投一次 I-neutral
+zW5ipUD B-negative
+15分钟投一次 I-negative
  
 戒指 O
 可以 O
@@ -6751,7 +6751,7 @@ Angela B-positive
 的 O
 淡淡 O
 清香 O
-。 I-neutral
+。 O
  
 # O
 嘻哈 B-positive
@@ -6771,8 +6771,8 @@ Angela B-positive
 8错8错啦 O
 。 O
 [ O
-乐乐 B-neutral
-] I-neutral
+乐乐 O
+] O
  
 # O
 爱上 O
@@ -6811,7 +6811,7 @@ Angela B-positive
 力挺 O
 了 O
 嗄 O
-。 I-neutral
+。 O
  
 推荐 O
 你 O
@@ -6835,9 +6835,9 @@ http://t.cn/RVUlYk1 O
 ( O
 来自 O
 @ O
-唱 B-neutral
-吧 I-neutral
-) I-neutral
+唱 O
+吧 O
+) O
  
 邓州 B-negative
 今天 O
@@ -6899,7 +6899,7 @@ http://t.cn/zT7OZ2V I-neutral
 22 O
 . O
 7-16- O
-7mm I-neutral
+7mm O
  
 【 O
 王宝强 B-neutral
@@ -6948,7 +6948,7 @@ http://t.cn/zT7OZ2V I-neutral
 的 O
 话题 O
 。 O
-http://t.cn/RVyorfC I-neutral
+http://t.cn/RVyorfC O
  
 # O
 湄公河 B-neutral
@@ -7017,8 +7017,8 @@ http://t.cn/RVyorfC I-neutral
 ] O
 [ O
 加油 O
-] I-neutral
-http://t.cn/R2WxE6w I-neutral
+] O
+http://t.cn/R2WxE6w O
  
 # O
 阴阳师 B-positive
@@ -7034,7 +7034,7 @@ http://t.cn/R2WxE6w I-neutral
 就 O
 炫富 O
 ！ O
-http://t.cn/Rcrp17I I-neutral
+http://t.cn/Rcrp17I O
  
 一早 O
 房间 O
@@ -7061,13 +7061,13 @@ http://t.cn/Rcrp17I I-neutral
 ， O
 祝你们 O
 好运 O
-http://t.cn/z8A5pJe I-neutral
+http://t.cn/z8A5pJe O
  
 跪 O
 着 O
 看 O
 pellek B-positive
-唱歌 I-neutral
+唱歌 O
  
 靓颖 B-positive
 ， O
@@ -7084,8 +7084,8 @@ pellek B-positive
 鲜花 O
 ] O
 [ O
-鲜花 I-neutral
-] I-neutral
+鲜花 O
+] O
  
 洗面奶 B-negative
 走 O
@@ -7100,7 +7100,7 @@ pellek B-positive
 鼓掌 O
 ] O
 晚安 O
-喽 I-neutral
+喽 O
  
 马龙 B-positive
 已到 I-positive
@@ -7126,9 +7126,9 @@ good O
 来 O
 哦 O
 [ O
-挤眼 I-neutral
-] I-neutral
-@BaiduMaLongBar I-neutral
+挤眼 O
+] O
+@BaiduMaLongBar O
  
 【 O
 吃 O
@@ -7169,7 +7169,7 @@ http://t.cn/RZ7MPSO（分享自 O
 @ O
 一点 O
 资讯 O
-） I-neutral
+） O
  
 我们 O
 做 O
@@ -7227,8 +7227,8 @@ sei O
 报名 O
 吧 O
 [ O
-勾引 B-neutral
-] I-neutral
+勾引 O
+] O
  
 昨晚 O
 做梦 O
@@ -7264,7 +7264,7 @@ Ipad B-neutral
 疯 O
 了 O
 … O
-… I-neutral
+… O
  
 无论 O
 你 O
@@ -7318,7 +7318,7 @@ Ipad B-neutral
 人一别 O
 就是 O
 一世 O
-。 I-neutral
+。 O
  
 日 O
 常常 B-negative
@@ -7342,11 +7342,11 @@ Ipad B-neutral
 尚释 B-neutral
 公司 I-neutral
 ## O
-泰国 O
-佛牌 O
-恭请 B-neutral
-# I-neutral
-http://t.cn/R2Wx0RP I-neutral
+泰国 B-positive
+佛牌 I-positive
+恭请 I-positive
+# I-negative
+http://t.cn/R2Wx0RP I-negative
  
 # O
 青云 B-positive
@@ -7370,7 +7370,7 @@ http://t.cn/R2Wx0RP I-neutral
 是 I-positive
 绝配 I-positive
 a O
-。 I-neutral
+。 O
  
 天门 B-neutral
 ， O
@@ -7386,7 +7386,7 @@ a O
 空气质量 O
 ： O
 良 O
-。 I-neutral
+。 O
  
 @ O
 TFBOYS B-positive
@@ -7418,9 +7418,9 @@ TFBOYS B-positive
 哦 O
 。 O
 棒棒 O
-哒 I-neutral
-！ I-neutral
-http://t.cn/RZkcUcv2 I-neutral
+哒 O
+！ O
+http://t.cn/RZkcUcv2 O
  
 @ O
 王凯 B-negative
@@ -7449,9 +7449,9 @@ kkw I-negative
 哦 O
 。 O
 棒棒 O
-哒 I-neutral
-！ I-neutral
-http://t.cn/Rz5iysL I-neutral
+哒 O
+！ O
+http://t.cn/Rz5iysL O
  
 你 O
 心目 O
@@ -7504,7 +7504,7 @@ http://t.cn/Rz5iysL I-neutral
 万元 O
 大奖 O
 ！ O
-http://t.cn/RcgPThr I-neutral
+http://t.cn/RcgPThr O
  
 翻不出 B-negative
 魍魉 I-negative
@@ -7519,7 +7519,7 @@ http://t.cn/RcgPThr I-neutral
 了 O
 吧 O
 … O
-… I-neutral
+… O
  
 # O
 枕头 O
@@ -7566,8 +7566,8 @@ http O
 t O
 . O
 cn O
-/ I-neutral
-RV4V4zt I-neutral
+/ O
+RV4V4zt O
  
 【 O
 宁芬堡 B-positive
@@ -7642,7 +7642,7 @@ RV4V4zt I-neutral
 天生丽质 O
 ， O
 仪态万方 O
-。 I-neutral
+。 O
  
 有 O
 哆 O
@@ -7708,8 +7708,8 @@ A O
 ！ O
 点 O
 ！ O
-』 I-neutral
-http://t.cn/RVUj2M2 I-neutral
+』 O
+http://t.cn/RVUj2M2 O
  
 萌物 B-negative
 驾到 I-negative
@@ -7745,8 +7745,8 @@ APP O
 免息 B-positive
 券 I-positive
 @ O
-京东 B-neutral
-http://t.cn/RVUT1ng I-neutral
+京东 B-negative
+http://t.cn/RVUT1ng I-negative
  
 ） O
 换季 O
@@ -7770,7 +7770,7 @@ http://t.cn/RVUT1ng I-neutral
 用 O
 了 O
 3套了 O
-。 I-neutral
+。 O
  
 漯河 B-negative
 ， O
@@ -7786,7 +7786,7 @@ http://t.cn/RVUT1ng I-neutral
 空气质量 O
 ： O
 优 O
-。 I-neutral
+。 O
  
 # O
 赵丽颖 B-positive
@@ -7817,8 +7817,8 @@ http://t.cn/RVUT1ng I-neutral
 了 O
 ， O
 黑眼圈 O
-呀呀 B-neutral
-http://t.cn/Ryhln96 I-neutral
+呀呀 B-negative
+http://t.cn/Ryhln96 I-negative
  
 # O
 阴阳师 B-positive
@@ -7840,7 +7840,7 @@ http://t.cn/Ryhln96 I-neutral
 ！ O
 （ O
 ） O
-http://t.cn/RcSYU1q I-neutral
+http://t.cn/RcSYU1q O
  
 & O
 分享 O
@@ -7859,7 +7859,7 @@ RVy9sVD O
 网易 B-neutral
 云 I-neutral
 音乐 I-neutral
-） I-neutral
+） O
  
 大概 O
 是 O
@@ -7892,8 +7892,8 @@ RVy9sVD O
 你 O
 呀 O
 @ O
-小野 B-neutral
-甜杏 I-neutral
+小野 B-negative
+甜杏 I-negative
  
 。 O
 笛 B-neutral
@@ -7932,7 +7932,7 @@ DIFO O
 原液 I-neutral
 修复 I-neutral
 发膜 I-neutral
-# I-neutral
+# O
  
 # O
 嘻哈 B-positive
@@ -7961,7 +7961,7 @@ DIFO O
 、 O
 、 O
 、 O
-。 I-neutral
+。 O
  
 【 O
 中消协 B-negative
@@ -8012,8 +8012,8 @@ http O
 t O
 . O
 cn O
-/ I-neutral
-RVt4vi8 I-neutral
+/ O
+RVt4vi8 O
  
 这个 O
 时代 O
@@ -8103,7 +8103,7 @@ RVItu2S O
 网易 B-neutral
 云 I-neutral
 音乐 I-neutral
-） I-neutral
+） O
  
 / O
 / O
@@ -8127,7 +8127,7 @@ http://t.cn/RVIzfAF I-neutral
 # O
 网易 B-neutral
 新闻 I-neutral
-# I-neutral
+# O
  
 【 O
 中芯 B-neutral
@@ -8180,8 +8180,8 @@ http://t.cn/RVIzfAF I-neutral
 t O
 . O
 cn O
-/ I-neutral
-RVItt6E I-neutral
+/ O
+RVItt6E O
  
 王 B-positive
 医生 O
@@ -8195,7 +8195,7 @@ RVItt6E I-neutral
 了 O
 会 O
 想念 O
-。 I-neutral
+。 O
  
 # O
 血色 B-negative
@@ -8215,13 +8215,13 @@ RVItt6E I-neutral
 ， O
 好 O
 喜欢 O
-… I-neutral
+… O
  
 我 O
 真想 O
 问 O
 玩 O
-阴阳师 B-positive
+阴阳师 B-neutral
 怎么 O
 刷御魂 O
 ， O
@@ -8266,8 +8266,8 @@ RVItt6E I-neutral
 不行 O
 了 O
 [ O
-怒 I-neutral
-] I-neutral
+怒 O
+] O
  
 # O
 青云 B-positive
@@ -8287,7 +8287,7 @@ RVItt6E I-neutral
 ， O
 晚上 O
 继续 O
-追剧 I-neutral
+追剧 O
  
 在 O
 这个 O
@@ -8314,8 +8314,8 @@ RVItt6E I-neutral
 污 O
 ] O
 [ O
-污 B-neutral
-] I-neutral
+污 O
+] O
  
 千言万语 O
 ， O
@@ -8340,7 +8340,7 @@ RVItt6E I-neutral
 http://t.cn/RcY9YfG I-positive
 加油 O
 吧 O
-。 I-neutral
+。 O
  
 # O
 林夕 B-neutral
@@ -8351,8 +8351,8 @@ http://t.cn/RcY9YfG I-positive
 t O
 . O
 cn O
-/ I-neutral
-RVbOGwU I-neutral
+/ O
+RVbOGwU O
  
 #TFBOYS O
 # O
@@ -8376,7 +8376,7 @@ RVbOGwU I-neutral
 ！ O
 [ O
 心 O
-] I-neutral
+] O
  
 # O
 赵丽颖 B-positive
@@ -8393,8 +8393,8 @@ RVbOGwU I-neutral
 赵丽颖 B-positive
 上 O
 的 O
-心态 I-neutral
-了 I-neutral
+心态 O
+了 O
  
 pkk B-neutral
 115卡特样6 I-neutral
@@ -8459,8 +8459,8 @@ gh1ssj O
 美女 O
 诱惑 O
 韩国 O
-美女 I-neutral
-yer7iu I-neutral
+美女 O
+yer7iu O
  
 【 O
 《 O
@@ -8529,8 +8529,8 @@ PP O
 的 O
 连装 B-negative
 炮酱 I-negative
-哦 I-neutral
-！ I-neutral
+哦 O
+！ O
  
 Jaeger B-neutral
 - I-neutral
@@ -8581,8 +8581,8 @@ MM B-negative
 ， O
 更輕 O
 便 O
-利落 B-neutral
-！ I-neutral
+利落 O
+！ O
  
 《 O
 欢迎 O
@@ -8655,7 +8655,7 @@ _ O
 他 O
 面前 O
 出现 O
-... I-neutral
+... O
  
 我 O
 lay O
@@ -8667,8 +8667,8 @@ lay O
 好 O
 了 O
 [ O
-摊手 I-neutral
-] I-neutral
+摊手 O
+] O
  
 《 O
 牧人 B-negative
@@ -8727,9 +8727,9 @@ lay O
 — O
 容中尔甲 O
 《 O
-牧人 B-neutral
-之歌 I-neutral
-》 I-neutral
+牧人 B-negative
+之歌 I-negative
+》 O
  
 我 B-positive
 的 I-positive
@@ -8755,8 +8755,8 @@ lay O
 ] O
 [ O
 爱 O
-你 B-neutral
-] I-neutral
+你 O
+] O
  
 我 O
 刚用 O
@@ -8793,9 +8793,9 @@ lay O
 ， O
 省心 O
 又 O
-省钱 I-neutral
-！ I-neutral
-http://t.cn/RVUlsE9 I-neutral
+省钱 O
+！ O
+http://t.cn/RVUlsE9 O
  
 # O
 偶滴 B-positive
@@ -8816,9 +8816,9 @@ http://t.cn/RVUlsE9 I-neutral
 呀 O
 ！ O
 [ O
-玩去 B-neutral
-啦 I-neutral
-] I-neutral
+玩去 O
+啦 O
+] O
  
 # O
 我 O
@@ -8879,7 +8879,7 @@ Queen I-positive
 [ O
 困死 O
 了 O
-] I-neutral
+] O
  
 # O
 第十一届 O
@@ -8906,10 +8906,10 @@ Queen I-positive
 快 O
 来 O
 一起 O
-猜猜看 B-neutral
-吧 I-neutral
-！ I-neutral
-http://t.cn/RVtEw4g I-neutral
+猜猜看 O
+吧 O
+！ O
+http://t.cn/RVtEw4g O
  
 # O
 青云 B-positive
@@ -8936,8 +8936,8 @@ http://t.cn/RVtEw4g I-neutral
 看看 O
 这次 O
 的 O
-事情 I-neutral
-腾贯 I-neutral
+事情 O
+腾贯 O
  
 66澳洲 B-negative
 BLACKMORES I-negative
@@ -8999,9 +8999,9 @@ Folate I-negative
 血 O
 红细胞 B-negative
 生成 I-negative
-的 O
-必要 B-neutral
-元素 I-neutral
+的 I-negative
+必要 I-negative
+元素 O
  
 # O
 扇贝 B-neutral
@@ -9027,8 +9027,8 @@ http O
 t O
 . O
 cn O
-/ I-neutral
-RVVws6s I-neutral
+/ O
+RVVws6s O
  
 # O
 亚洲 B-neutral
@@ -9077,7 +9077,7 @@ RVVws6s I-neutral
 吧 O
 > O
 > O
-http://t.cn/RZYgTD0 I-neutral
+http://t.cn/RZYgTD0 O
  
 180件 B-negative
 豪华 O
@@ -9085,7 +9085,7 @@ http://t.cn/RZYgTD0 I-neutral
 儿童 O
 画笔 B-negative
 套装 I-negative
-98 I-neutral
+98 O
  
 # O
 阴阳师 B-positive
@@ -9106,10 +9106,10 @@ http://t.cn/RZYgTD0 I-neutral
 都 O
 害怕 O
 ！ O
-http://t.cn/Rcrp17I I-neutral
+http://t.cn/Rcrp17I O
  
 分享 O
-LAY B-positive
+LAY O
 的 O
 歌曲 O
 《 O
@@ -9122,7 +9122,7 @@ http://t.cn/RVzmwfr（分享自@ O
 虾米 B-neutral
 音乐 I-neutral
 ） O
-10 I-neutral
+10 O
  
 # O
 易 B-positive
@@ -9148,9 +9148,9 @@ http://t.cn/RVzmwfr（分享自@ O
 [ O
 兔子 O
 ] O
-易 B-neutral
-烊 I-neutral
-千玺 I-neutral
+易 B-positive
+烊 I-positive
+千玺 I-negative
  
 我 O
 是 O
@@ -9205,7 +9205,7 @@ http://t.cn/RVbGuEo I-neutral
 啥 O
 都 O
 对 O
-！ I-neutral
+！ O
  
 我 O
 参与 O
@@ -9230,10 +9230,10 @@ IN I-negative
 投给 O
 了 O
 “ O
-爱是 B-neutral
-一个 I-neutral
-疯字 I-neutral
-- O
+爱是 O
+一个 O
+疯字 B-positive
+- I-positive
 杨洋 B-positive
 ” O
 这个 O
@@ -9245,8 +9245,8 @@ IN I-negative
 来 O
 表态 O
 吧 O
-~ I-neutral
-http://t.cn/RVGPdJp I-neutral
+~ O
+http://t.cn/RVGPdJp O
  
 # O
 电影 B-positive
@@ -9280,7 +9280,7 @@ ali O
 梦想 O
 的 O
 前端 O
-。 I-neutral
+。 O
  
 @ O
 汪东城 B-positive
@@ -9310,13 +9310,13 @@ ali O
 棒棒 O
 哒 O
 ！ O
-http://t.cn/Rz5kvx0 I-neutral
+http://t.cn/Rz5kvx0 O
  
 利利利要 B-negative
 睡个 I-negative
 好觉 I-negative
 分享 O
-LAY B-positive
+LAY O
 的 O
 歌曲 O
 《 O
@@ -9328,13 +9328,13 @@ need I-positive
 http://t.cn/RVw5dJq（分享自@ O
 虾米 B-neutral
 音乐 I-neutral
-） I-neutral
+） O
  
 设计师 O
-IGENdesign B-positive
-从 I-positive
-天文 I-positive
-现象 O
+IGENdesign O
+从 O
+天文 B-neutral
+现象 I-neutral
 日食 O
 获得 O
 启发 O
@@ -9388,14 +9388,14 @@ Nissyoku O
 一样 O
 ， O
 妙不可言 O
-。 I-neutral
+。 O
  
 Mialdives B-negative
 is O
 my B-negative
 dream I-negative
 place I-negative
-! I-neutral
+! O
  
 战国 B-negative
 时 O
@@ -9412,7 +9412,7 @@ place I-negative
 之药 I-neutral
 献给 I-neutral
 国王 I-neutral
-。 I-neutral
+。 O
  
 今天 O
 做 O
@@ -9435,7 +9435,7 @@ place I-negative
 消瘦 I-negative
 的 O
 我 O
-。 I-neutral
+。 O
  
 # O
 张俪 B-positive
@@ -9464,7 +9464,7 @@ place I-negative
 也 O
 有 O
 一点 O
-魅力 I-neutral
+魅力 O
  
 【 O
 分享 O
@@ -9554,7 +9554,7 @@ place I-negative
 女儿 O
 刷到 O
 10岁 O
-。 I-neutral
+。 O
  
 做学问 B-negative
 的 I-negative
@@ -9590,7 +9590,7 @@ place I-negative
 对 O
 人体 O
 有益 O
-。 I-neutral
+。 O
  
 刚 O
 在 O
@@ -9692,7 +9692,7 @@ place I-negative
 南宁 O
 交警 O
 一 O
-大队 I-neutral
+大队 O
  
 来 O
 看看 O
@@ -9721,7 +9721,7 @@ http://t.cn/RV4yEqp（通过 O
 美拍 O
 # O
 拍摄 O
-） I-neutral
+） O
  
 # O
 微笑 B-positive
@@ -9735,8 +9735,8 @@ http://t.cn/RV4yEqp（通过 O
 的 O
 。 O
 [ O
-失望 I-neutral
-] I-neutral
+失望 O
+] O
  
 我 O
 正在 O
@@ -9764,7 +9764,7 @@ QQ O
 加速 O
 升 O
 ！ O
-) I-neutral
+) O
  
 # O
 张俪 B-positive
@@ -9786,10 +9786,10 @@ QQ O
 很 O
 喜欢 O
 这种 O
-帅气 I-neutral
-的 I-neutral
-女生 I-neutral
-啊 I-neutral
+帅气 O
+的 O
+女生 O
+啊 O
  
 【 O
 首批 O
@@ -9859,7 +9859,7 @@ QQ O
 首批 O
 格力 O
 手机 O
-。 I-neutral
+。 O
  
 # O
 爱上 O
@@ -9875,9 +9875,9 @@ QQ O
 呢 O
 ， O
 这首 O
-天亮 I-neutral
-了 I-neutral
-拔雄 I-neutral
+天亮 O
+了 O
+拔雄 O
  
 今天 O
 早上 O
@@ -9923,8 +9923,8 @@ QQ O
 吗 O
 这 O
 是 O
-毒害 B-neutral
-下一代 I-neutral
+毒害 B-negative
+下一代 I-negative
  
 墨西哥 B-neutral
 大多数 O
@@ -9978,7 +9978,7 @@ QQ O
 。 O
 [ O
 泪 O
-] I-neutral
+] O
  
 # O
 龙珠 B-negative
@@ -10006,9 +10006,9 @@ Z I-negative
 抽奖 O
 亲临现场 O
 了 O
-吗 I-neutral
-？ I-neutral
-？ I-neutral
+吗 O
+？ O
+？ O
  
 # O
 SNH B-positive
@@ -10026,9 +10026,9 @@ SNH B-positive
 小姐 O
 和 O
 我们 O
-见面 I-neutral
-？ I-neutral
-？ I-neutral
+见面 O
+？ O
+？ O
  
 【 O
 伊索 B-negative
@@ -10080,7 +10080,7 @@ SNH B-positive
 构成 O
 的 O
 荒岛 O
-。 I-neutral
+。 O
  
 # O
 阴阳师 B-positive
@@ -10096,7 +10096,7 @@ SNH B-positive
 就 O
 炫非 O
 ！ O
-http://t.cn/Rcrp17I I-neutral
+http://t.cn/Rcrp17I O
  
 关于 O
 中科 B-negative
@@ -10119,7 +10119,7 @@ http://t.cn/Rcrp17I I-neutral
 应该 O
 加仓 O
 ， O
-第二 B-negative
+第二 I-negative
 压力 I-negative
 位为 I-negative
 52.5 I-negative
@@ -10160,7 +10160,7 @@ http://t.cn/Rcrp17I I-neutral
 实际操作 O
 为 O
 51卖出 O
-。 I-neutral
+。 O
  
 摩洛哥 B-positive
 旅游 I-positive
@@ -10238,7 +10238,7 @@ Kamar I-negative
 著名 O
 的 O
 客人 O
-。 I-neutral
+。 O
  
 # O
 张俪 B-positive
@@ -10266,9 +10266,9 @@ Kamar I-negative
 还是 O
 一个 O
 现代 O
-剧 I-neutral
-呢 I-neutral
-？ I-neutral
+剧 O
+呢 O
+？ O
  
 天秤座 O
 今日 O
@@ -10305,7 +10305,7 @@ Kamar I-negative
 更 O
 多 O
 ： O
-http://t.cn/zRf0I5z I-neutral
+http://t.cn/zRf0I5z O
  
 洗发 B-neutral
 小哥 I-neutral
@@ -10331,9 +10331,9 @@ rua O
 一会 O
 还有 O
 更 O
-high I-neutral
-的 I-neutral
-歌 I-neutral
+high O
+的 O
+歌 O
  
 # O
 一句 B-positive
@@ -10373,7 +10373,7 @@ xkl O
 进军 O
 釜山 B-neutral
 电影节 I-neutral
-。 I-neutral
+。 O
  
 # O
 阴阳师 B-positive
@@ -10392,9 +10392,9 @@ xkl O
 我 O
 自己 O
 都 O
-害怕 I-neutral
-！ I-neutral
-http://t.cn/R54aJnq呵呵…黑麻麻的我 I-neutral
+害怕 O
+！ O
+http://t.cn/R54aJnq呵呵…黑麻麻的我 O
  
 澳洲 I-neutral
 女生 I-neutral
@@ -10407,7 +10407,7 @@ http://t.cn/R54aJnq呵呵…黑麻麻的我 I-neutral
 变 I-neutral
 鳟鱼 B-positive
 唇 I-positive
-。 I-neutral
+。 O
  
 # O
 神奇 B-positive
@@ -10447,7 +10447,7 @@ PVD O
 （ O
 超级 O
 版 O
-） I-neutral
+） O
  
 YOUNI B-negative
 STUDIO I-negative
@@ -10483,7 +10483,7 @@ bb O
 便宜 O
 ！ O
 ！ O
-！ I-neutral
+！ O
  
 关注 O
 了 O
@@ -10539,12 +10539,12 @@ A O
 吃惊 O
 ] O
 [ O
-哆 B-neutral
-啦 I-neutral
-A I-neutral
-梦 I-neutral
-吃惊 I-neutral
-] I-neutral
+哆 O
+啦 O
+A O
+梦 O
+吃惊 O
+] O
  
 鹿晗 B-positive
 喊 I-positive
@@ -10570,12 +10570,12 @@ OLiViA B-negative
 # O
 鹿饭 O
 欢乐 O
-趴 B-neutral
-http://t.cn/RqhUNhK I-neutral
+趴 B-negative
+http://t.cn/RqhUNhK I-negative
  
 高科技 O
 盆栽 O
-Broto B-positive
+Broto O
 ， O
 不 O
 需要 O
@@ -10586,7 +10586,7 @@ Broto B-positive
 担心 O
 污染 O
 。 O
-Broto B-positive
+Broto O
 采用 O
 aeroponic O
 技术 O
@@ -10637,9 +10637,9 @@ PH值 O
 照顾 O
 的 O
 高科技 O
-盆栽 I-neutral
-呢 I-neutral
-？ I-neutral
+盆栽 O
+呢 O
+？ O
  
 # O
 华为 B-neutral
@@ -10668,8 +10668,8 @@ PH值 O
 吧 O
 ～ O
 独家 O
-记忆 I-neutral
-http://t.cn/RLCKCUo I-neutral
+记忆 O
+http://t.cn/RLCKCUo O
  
 把 O
 生活 O
@@ -10747,9 +10747,9 @@ http://t.cn/RLCKCUo I-neutral
 的 I-neutral
 势力 I-neutral
 扩大 I-neutral
-， I-neutral
-党 I-neutral
-... I-neutral
+， O
+党 O
+... O
  
 今天 O
 我 O
@@ -10777,7 +10777,7 @@ t O
 . O
 cn O
 / O
-RznUBIb I-neutral
+RznUBIb O
  
 写 O
 了 O
@@ -10795,7 +10795,7 @@ RznUBIb I-neutral
 ★ O
 ★ O
 ★ O
-http://t.cn/RVUtT7k I-neutral
+http://t.cn/RVUtT7k O
  
 # O
 爱上 O
@@ -10818,7 +10818,7 @@ http://t.cn/RVUtT7k I-neutral
 的 O
 呀 O
 妓 O
-么 I-neutral
+么 O
  
 昨晚 O
 做梦 O
@@ -10854,7 +10854,7 @@ Ipad B-neutral
 疯 O
 了 O
 … O
-… I-neutral
+… O
  
 【 O
 无 O
@@ -10894,7 +10894,7 @@ Ipad B-neutral
 （ O
 广西 O
 新闻频道 O
-） I-neutral
+） O
  
 微博 O
 可以 O
@@ -10950,8 +10950,8 @@ Ipad B-neutral
 应有 O
 得 O
 效果 O
-果 B-neutral
-http://t.cn/R2WJ9G4 I-neutral
+果 B-negative
+http://t.cn/R2WJ9G4 I-negative
  
 美国 B-neutral
 总统 O
@@ -10998,7 +10998,7 @@ http://t.cn/R2WJ9G4 I-neutral
 你 O
 了 O
 。 O
-” I-neutral
+” O
  
 聊聊 B-negative
 人生 O
@@ -11020,7 +11020,7 @@ RVI59BB O
 网易 B-neutral
 云 I-neutral
 音乐 I-neutral
-） I-neutral
+） O
  
 【 O
 CRIMINAL B-negative
@@ -11080,7 +11080,7 @@ kg O
 周三 O
 ） O
 … O
-… I-neutral
+… O
  
 多肉 B-negative
 都 O
@@ -11093,8 +11093,8 @@ kg O
 不 O
 可爱 O
 [ O
-白眼 B-neutral
-] I-neutral
+白眼 O
+] O
  
 玩游戏 O
 ？ O
@@ -11105,7 +11105,7 @@ kg O
 莫莉 B-positive
 幻想 I-positive
 ！ O
-http://t.cn/R2s8t4j I-neutral
+http://t.cn/R2s8t4j O
  
 你 O
 丑 O
@@ -11127,12 +11127,12 @@ http://t.cn/R2s8t4j I-neutral
 点此 O
 进入 O
 > O
-> I-neutral
-http://t.cn/RVbyCDB I-neutral
+> O
+http://t.cn/RVbyCDB O
  
 9 O
 分享 O
-LAY B-positive
+LAY O
 的 O
 歌曲 O
 《 O
@@ -11141,7 +11141,7 @@ U I-positive
 need I-positive
 ? I-positive
 》 O
-http://t.cn/RVw5dBd（分享自@虾米音乐） I-neutral
+http://t.cn/RVw5dBd（分享自@虾米音乐） O
  
 碧桂园 B-positive
 好房 O
@@ -11190,7 +11190,7 @@ http://t.cn/RVw5dBd（分享自@虾米音乐） I-neutral
 你们 O
 值得 O
 拥有 O
-http://t.cn/R2Wxpcp I-neutral
+http://t.cn/R2Wxpcp O
  
 我 O
 领取 O
@@ -11230,7 +11230,7 @@ TFBOYS B-positive
 应援 O
 吧 O
 ！ O
-http://t.cn/RZkcUVZ I-neutral
+http://t.cn/RZkcUVZ O
  
 KHJHhjjh B-negative
 蓝调 O
@@ -11310,13 +11310,13 @@ f O
 快乐 O
 哦哦哦 O
 啦 O
-旅途 I-neutral
-DSFDSFSDFR I-neutral
+旅途 O
+DSFDSFSDFR O
  
 今福缘 B-negative
 休闲 O
-食品店 B-neutral
-http://t.cn/RVAyTul I-neutral
+食品店 B-negative
+http://t.cn/RVAyTul I-negative
  
 【 O
 帆布鞋 O
@@ -11339,7 +11339,7 @@ http://t.cn/RVAyTul I-neutral
 见 O
 萍 O
 论 O
-」 I-neutral
+」 O
  
 # O
 田 B-positive
@@ -11356,7 +11356,7 @@ dancer O
 + O
 1 O
 + O
-1年年 I-neutral
+1年年 O
  
 海西 B-negative
 百顿 I-negative
@@ -11365,9 +11365,9 @@ dancer O
 男士 B-positive
 卫衣 I-positive
 券后 O
-29 I-neutral
-. I-neutral
-8 I-neutral
+29 O
+. O
+8 O
  
 厂家 B-negative
 做 O
@@ -11383,9 +11383,9 @@ dancer O
 # O
 做 O
 婚纱 O
-相框 B-neutral
-# I-neutral
-http://t.cn/R2WxOkR I-neutral
+相框 O
+# O
+http://t.cn/R2WxOkR O
  
 你 O
 想 O
@@ -11404,7 +11404,7 @@ http://t.cn/R2WxOkR I-neutral
 . O
 — O
 — O
-屠格涅夫 I-neutral
+屠格涅夫 B-positive
  
 【 O
 通用汽车 O
@@ -11477,7 +11477,7 @@ Vue I-negative
 行进 O
 中 O
 掉落 O
-。 I-neutral
+。 O
  
 # O
 嘻哈 B-positive
@@ -11496,7 +11496,7 @@ Vue I-negative
 传 I-positive
 的 O
 真多 O
-。 I-neutral
+。 O
  
 摩洛哥 B-positive
 旅游 I-positive
@@ -11574,7 +11574,7 @@ Kamar I-negative
 著名 O
 的 O
 客人 O
-。 I-neutral
+。 O
  
 惟独 B-negative
 革命家 I-negative
@@ -11598,8 +11598,8 @@ Kamar I-negative
 幸福 O
 。 O
 — O
-— I-neutral
-鲁迅 I-neutral
+— O
+鲁迅 O
  
 @ O
 杨洋 B-positive
@@ -11630,7 +11630,7 @@ icon I-positive
 棒棒 O
 哒 O
 ！ O
-http://t.cn/Rz5ibuw I-neutral
+http://t.cn/Rz5ibuw O
  
 # O
 阴阳师 B-positive
@@ -11651,7 +11651,7 @@ http://t.cn/Rz5ibuw I-neutral
 都 O
 害怕 O
 ！ O
-http://t.cn/Rcrp17I I-neutral
+http://t.cn/Rcrp17I O
  
 # O
 微笑 B-positive
@@ -11673,8 +11673,8 @@ http://t.cn/Rcrp17I I-neutral
 ， O
 带 O
 我 O
-走 I-neutral
-吧 I-neutral
+走 O
+吧 O
  
 陈晓 B-neutral
 现代 I-neutral
@@ -11688,8 +11688,8 @@ http://t.cn/Rcrp17I I-neutral
 感觉 O
 ， O
 真是 O
-醉 I-neutral
-了 I-neutral
+醉 O
+了 O
  
 # O
 电影 B-positive
@@ -11717,7 +11717,7 @@ ppb O
 我 O
 一定 O
 观看 O
-。 I-neutral
+。 O
  
 虽然 O
 看 O
@@ -11764,7 +11764,7 @@ http://t.cn/R2vtf1P（分享自 O
 @ O
 土豆 O
 音乐 O
-） I-neutral
+） O
  
 # O
 青云 B-positive
@@ -11785,8 +11785,8 @@ http://t.cn/R2vtf1P（分享自 O
 志 I-positive
 里面 O
 很 O
-好看 I-neutral
-的 I-neutral
+好看 O
+的 O
  
 【 O
 天津 B-neutral
@@ -11850,8 +11850,8 @@ http O
 t O
 . O
 cn O
-/ I-neutral
-RV4xK7Q I-neutral
+/ O
+RV4xK7Q O
  
 【 O
 奔驰 B-neutral
@@ -11934,7 +11934,7 @@ CLA B-positive
 行车 B-negative
 的 I-negative
 稳定性 I-negative
-。 I-neutral
+。 O
  
 来 O
 看看 O
@@ -11958,7 +11958,7 @@ http://t.cn/RVIttOQ（通过 O
 美拍 O
 # O
 拍摄 O
-） I-neutral
+） O
  
 只有 O
 瘦脸 B-positive
@@ -11967,8 +11967,8 @@ http://t.cn/RVIttOQ（通过 O
 治疗 O
 你 O
 的 O
-大脸 B-neutral
-了 I-neutral
+大脸 O
+了 O
  
 # O
 阴阳师 B-positive
@@ -11984,7 +11984,7 @@ http://t.cn/RVIttOQ（通过 O
 就 O
 炫富 O
 ！ O
-http://t.cn/R54aJnq I-neutral
+http://t.cn/R54aJnq O
  
 hkh O
 蓝调 O
@@ -12063,8 +12063,8 @@ f O
 啦 O
 旅途 O
 天 O
-NDNJ B-neutral
-1jfb1 I-neutral
+NDNJ B-negative
+1jfb1 I-negative
  
 # O
 偶滴 B-positive
@@ -12085,8 +12085,8 @@ NDNJ B-neutral
 我 O
 的 O
 最 O
-爱 B-neutral
-！ I-neutral
+爱 O
+！ O
  
 # O
 网剧 B-negative
@@ -12107,7 +12107,7 @@ NDNJ B-neutral
 剧 O
 的 O
 啦 O
-。 I-neutral
+。 O
  
 # O
 枕头 O
@@ -12143,11 +12143,11 @@ NDNJ B-neutral
 枕头 O
 人 O
 @ O
-马丁 B-neutral
-· I-neutral
-麦克 I-neutral
-多纳 I-neutral
-http://t.cn/RV4V4zt I-neutral
+马丁 B-negative
+· I-negative
+麦克 I-negative
+多纳 I-negative
+http://t.cn/RV4V4zt O
  
 / O
 / O
@@ -12175,7 +12175,7 @@ http://t.cn/RVqcI7l O
 # O
 网易 B-neutral
 新闻 I-neutral
-# I-neutral
+# O
  
 我 O
 参与 O
@@ -12217,8 +12217,8 @@ http://t.cn/RVqcI7l O
 来 O
 表态 O
 吧 O
-~ I-neutral
-http://t.cn/RcrCkGq I-neutral
+~ O
+http://t.cn/RcrCkGq O
  
 # O
 我 O
@@ -12259,9 +12259,9 @@ http://t.cn/RcrCkGq I-neutral
 你 O
 也 O
 来看 O
-看吧 I-neutral
-！ I-neutral
-http://t.cn/RVI5r4O I-neutral
+看吧 O
+！ O
+http://t.cn/RVI5r4O O
  
 柏拉图 B-positive
 式 I-positive
@@ -12274,7 +12274,7 @@ http://t.cn/RVI5r4O I-neutral
 . O
 柏拉图 O
 说 O
-： I-neutral
+： O
  
 《 O
 献给 O
@@ -12287,8 +12287,8 @@ http://t.cn/RVI5r4O I-neutral
 2 O
 ） O
 ， O
-抱歉 B-positive
-_ I-positive
+抱歉 O
+_ O
 ( O
 : O
 з O
@@ -12311,7 +12311,7 @@ _ O
 肉 O
 … O
 … O
-… I-neutral
+… O
  
 # O
 淘宝 O
@@ -12337,7 +12337,7 @@ _ O
 教程 O
 http://t.cn/RZKhTnq O
 @ O
-霍常亮 I-neutral
+霍常亮 B-neutral
  
 @努力努力再努力x O
 不要 O
@@ -12363,7 +12363,7 @@ http://t.cn/RVtuyRE O
 加油 O
 呀 O
 ！ O
-10 I-neutral
+10 O
  
 # O
 隐藏 B-positive
@@ -12413,7 +12413,7 @@ High O
 让 O
 人 O
 尖叫 O
-。 I-neutral
+。 O
  
 # O
 网红 O
@@ -12434,8 +12434,8 @@ High O
 这个 O
 真的 O
 是 O
-有点 I-neutral
-悬 I-neutral
+有点 O
+悬 O
  
 我 O
 参与 O
@@ -12470,8 +12470,8 @@ QQ B-neutral
 来 O
 表态 O
 吧 O
-~ I-neutral
-http://t.cn/RV44UoX I-neutral
+~ O
+http://t.cn/RV44UoX O
  
 # O
 赵丽颖 B-positive
@@ -12498,7 +12498,7 @@ http://t.cn/RV44UoX I-neutral
 在 O
 这里 O
 喜欢 O
-赵丽颖 I-neutral
+赵丽颖 B-positive
  
 天津 B-neutral
 意式 I-neutral
@@ -12516,8 +12516,8 @@ http://t.cn/RV44UoX I-neutral
 不错 O
 哦 O
 ～ O
-http://t.cn/RtUdQUn B-neutral
-. I-neutral
+http://t.cn/RtUdQUn O
+. O
  
 玩 O
 LOL O
@@ -12530,7 +12530,7 @@ LOL O
 树洞 O
 特别 O
 推荐 O
-关注 I-neutral
+关注 O
  
 # O
 郑号 B-negative
@@ -12591,8 +12591,8 @@ Primary O
 的 O
 支持 O
 [ O
-偷乐 I-neutral
-] I-neutral
+偷乐 O
+] O
  
 怎么 O
 看穿 O
@@ -12605,9 +12605,9 @@ Primary O
 淘宝 O
 买 O
 的 O
-呢 I-neutral
-？ I-neutral
-http://t.cn/RVfHal9 I-neutral
+呢 O
+？ O
+http://t.cn/RVfHal9 O
  
 # O
 青云 B-positive
@@ -12636,7 +12636,7 @@ http://t.cn/RVfHal9 I-neutral
 题材 O
 的 O
 电视剧 O
-。 I-neutral
+。 O
  
 # O
 青云 B-positive
@@ -12654,7 +12654,7 @@ http://t.cn/RVfHal9 I-neutral
 美女 O
 的 O
 帅哥 O
-。 I-neutral
+。 O
  
 外地人 B-negative
 滚 I-negative
@@ -12683,7 +12683,7 @@ http://t.cn/RVbGi7y I-neutral
 都 O
 非常 O
 不错 O
-。 I-neutral
+。 O
  
 # O
 SWIN B-positive
@@ -12708,7 +12708,7 @@ SWIN B-positive
 吧 O
 ， O
 支持 O
-他们 I-neutral
+他们 O
  
 @ O
 M B-positive
@@ -12740,7 +12740,7 @@ M I-positive
 棒棒 O
 哒 O
 ！ O
-http://t.cn/Rv8KwSm I-neutral
+http://t.cn/Rv8KwSm O
  
 其实 O
 心里 O
@@ -12779,7 +12779,7 @@ http://t.cn/RVbVffU O
 网易 B-neutral
 云 I-neutral
 音乐 I-neutral
-） I-neutral
+） O
  
 跟着 O
 吉安 O
@@ -12789,8 +12789,8 @@ http://t.cn/RVbVffU O
 来看 O
 钓鱼 O
 [ O
-doge I-neutral
-] I-neutral
+doge O
+] O
  
 # O
 斯里兰卡 B-neutral
@@ -12803,8 +12803,8 @@ doge I-neutral
 t O
 . O
 cn O
-/ I-neutral
-RV4V5yh I-neutral
+/ O
+RV4V5yh O
  
 纽约 B-neutral
 迷情 O
@@ -12813,11 +12813,11 @@ RV4V5yh I-neutral
 你 O
 的 O
 温柔 O
-。 I-neutral
+。 O
  
 6 O
 分享 O
-LAY B-positive
+LAY O
 的 O
 歌曲 O
 《 O
@@ -12829,7 +12829,7 @@ need I-positive
 http://t.cn/RVw5dBd（分享自@ O
 虾米 B-neutral
 音乐 I-neutral
-） I-neutral
+） O
  
 离开 O
 冰岛 O
@@ -12897,10 +12897,10 @@ http://t.cn/RVw5dBd（分享自@ O
 微博去 O
 旅行 O
 ## O
-迷失 B-neutral
-冰岛 I-neutral
-# I-neutral
-http://t.cn/RqxNEdX I-neutral
+迷失 B-negative
+冰岛 I-negative
+# O
+http://t.cn/RqxNEdX O
  
 想 O
 给 O
@@ -12947,7 +12947,7 @@ http://t.cn/RqxNEdX I-neutral
 个性 O
 又 O
 有趣 O
-。 I-neutral
+。 O
  
 哈哈哈 O
 .. O
@@ -12967,7 +12967,7 @@ yahoo B-negative
 難怪 O
 不 O
 夯 O
-... I-neutral
+... O
  
 # O
 偶滴 B-positive
@@ -12996,7 +12996,7 @@ yahoo B-negative
 看 O
 出来 O
 了 O
-。 I-neutral
+。 O
  
 # O
 阴阳师 B-positive
@@ -13022,7 +13022,7 @@ SSR O
 ！ O
 [ O
 ] O
-http://t.cn/RqsYJde I-neutral
+http://t.cn/RqsYJde O
  
 # O
 阴阳师 B-positive
@@ -13043,7 +13043,7 @@ http://t.cn/RqsYJde I-neutral
 都 O
 害怕 O
 ！ O
-http://t.cn/Rcrp17I I-neutral
+http://t.cn/Rcrp17I O
  
 www O
 . O
@@ -13119,7 +13119,7 @@ com O
 / I-negative
 16483 I-negative
 . O
-html I-neutral
+html O
  
 # O
 蒙面 B-positive
@@ -13146,7 +13146,7 @@ html I-neutral
 创意 O
 的 O
 节目 O
-。 I-neutral
+。 O
  
 我 O
 正在 O
@@ -13179,9 +13179,9 @@ http://t.cn/RcTPP2S I-negative
 的 O
 音乐 O
 人 O
-加油 I-neutral
-吧 I-neutral
-！ I-neutral
+加油 O
+吧 O
+！ O
  
 有时候 O
 真的 O
@@ -13274,7 +13274,7 @@ http://t.cn/RcTPP2S I-negative
 自信 O
 丑人 O
 不会 O
-懂 I-neutral
+懂 O
  
 我 O
 分享 O
@@ -13289,18 +13289,18 @@ http://t.cn/RcTPP2S I-negative
 掌眼 O
 。 O
 @ O
-文玩 B-neutral
-迷网 I-neutral
-http://t.cn/RVbcc2n I-neutral
+文玩 B-negative
+迷网 I-negative
+http://t.cn/RVbcc2n O
  
 隔壁 B-negative
 桌 I-negative
 老王 I-negative
 给 O
 的 O
-迷 I-neutral
-之 I-neutral
-糖果 I-neutral
+迷 O
+之 O
+糖果 O
  
 客厅 B-negative
 ： I-negative
@@ -13335,22 +13335,22 @@ http://t.cn/RVbcc2n I-neutral
 较 O
 小 O
 ， O
-凹 B-positive
-进去 I-positive
-的 I-positive
-设计 I-positive
-进一步 I-positive
+凹 B-negative
+进去 I-negative
+的 O
+设计 O
+进一步 O
 拉伸 O
 了 O
 空间 O
-。 I-neutral
+。 O
  
 我要 O
 吃 O
 螺狮粉 B-positive
 [ O
-doge I-neutral
-] I-neutral
+doge O
+] O
  
 # O
 爱上 O
@@ -13405,7 +13405,7 @@ doge I-neutral
 大学生 I-neutral
 文化 I-neutral
 旅游节 I-neutral
-。 I-neutral
+。 O
  
 #疯狂电影城召G令 O
 # O
@@ -13428,9 +13428,9 @@ doge I-neutral
 都 O
 这么 O
 年轻 O
-呀 I-neutral
-！ I-neutral
-茄暴 I-neutral
+呀 O
+！ O
+茄暴 O
  
 贵阳 B-neutral
 ， O
@@ -13446,7 +13446,7 @@ doge I-neutral
 空气质量 O
 ： O
 良 O
-。 I-neutral
+。 O
  
 街花 B-neutral
 与 I-neutral
@@ -13467,14 +13467,14 @@ by O
 priest I-negative
 的 O
 资本 O
-剑客 B-neutral
-温 I-neutral
-年岁 I-neutral
-暖 I-neutral
-宋家 I-neutral
-的 I-neutral
-儿子 I-neutral
-们 I-neutral
+剑客 B-negative
+温 I-negative
+年岁 I-negative
+暖 O
+宋家 B-negative
+的 I-negative
+儿子 I-negative
+们 O
  
 【 O
 每天 O
@@ -13550,7 +13550,7 @@ priest I-negative
 每周 O
 饮用 B-negative
 3次以上烈酒的影响 I-negative
-。 I-neutral
+。 O
  
 。 O
 。 O
@@ -13578,8 +13578,8 @@ priest I-negative
 色 O
 ] O
 [ O
-色 I-neutral
-] I-neutral
+色 O
+] O
  
 距 O
 《 O
@@ -13598,8 +13598,8 @@ priest I-negative
 一定 O
 要 O
 看 O
-哦 I-neutral
-！ I-neutral
+哦 O
+！ O
  
 [ O
 可爱 O
@@ -13644,15 +13644,15 @@ priest I-negative
 谁 O
 知道 O
 [ O
-鼓掌 I-neutral
-] I-neutral
+鼓掌 O
+] O
  
 【 O
 日本 B-neutral
 冈山 I-neutral
 · I-neutral
-在 O
-仓 O
+在 I-neutral
+仓 I-neutral
 敷 O
 美观 O
 邂逅 B-negative
@@ -13696,7 +13696,7 @@ priest I-negative
 古镇 I-positive
 的 O
 感觉 O
-。 I-neutral
+。 O
  
 『 B-positive
 古典舞 I-positive
@@ -13715,8 +13715,8 @@ _ I-neutral
 00M_h I-neutral
 . I-neutral
 264 I-neutral
-』 I-neutral
-http://t.cn/RVUl5Pq I-neutral
+』 I-negative
+http://t.cn/RVUl5Pq I-negative
  
 # O
 神奇 B-positive
@@ -13743,7 +13743,7 @@ http://t.cn/RVUl5Pq I-neutral
 感觉 O
 的 O
 哦 O
-。 I-neutral
+。 O
  
 # O
 易 B-positive
@@ -13771,7 +13771,7 @@ http://t.cn/RVUl5Pq I-neutral
 ， O
 真心 O
 滴 O
-。 I-neutral
+。 O
  
 客厅 B-negative
 ： I-negative
@@ -13806,15 +13806,15 @@ http://t.cn/RVUl5Pq I-neutral
 较 O
 小 O
 ， O
-凹 B-positive
-进去 I-positive
-的 I-positive
-设计 I-positive
-进一步 I-positive
+凹 B-negative
+进去 I-negative
+的 O
+设计 O
+进一步 O
 拉伸 O
 了 O
 空间 O
-。 I-neutral
+。 O
  
 我 O
 领取 O
@@ -13852,7 +13852,7 @@ M I-positive
 应援 O
 吧 O
 ！ O
-http://t.cn/Rv8KwoZ I-neutral
+http://t.cn/Rv8KwoZ O
  
 # O
 微笑 B-positive
@@ -13876,8 +13876,8 @@ http://t.cn/Rv8KwoZ I-neutral
 。 O
 [ O
 右 O
-哼哼 I-neutral
-] I-neutral
+哼哼 O
+] O
  
 MHM B-positive
 自行车 I-positive
@@ -13911,8 +13911,8 @@ MHM B-positive
 ， O
 靠 O
 谱 O
-美 B-positive
-女主播 I-positive
+美 O
+女主播 O
 # O
 美女 O
 诱惑 O
@@ -13921,16 +13921,16 @@ MHM B-positive
 给力 O
 ] O
 [ O
-给力 I-neutral
-] I-neutral
-#熟妇卡恩间谍活动博士的JHGjhfghjf觉得F就到家色狼SXEECDV I-neutral
+给力 O
+] O
+#熟妇卡恩间谍活动博士的JHGjhfghjf觉得F就到家色狼SXEECDV O
  
 双龙 B-positive
 汽车 I-positive
 可爱 O
 漂亮 O
-车模 I-neutral
-！ I-neutral
+车模 O
+！ O
  
 最 O
 困难 O
@@ -13975,16 +13975,16 @@ MHM B-positive
 University O
 of O
 [ O
-失望 I-neutral
-] I-neutral
-Roehampton I-neutral
+失望 O
+] O
+Roehampton O
  
 婴儿 O
 袜 B-negative
 棉质 I-negative
 5 I-negative
-双 I-neutral
-9.9 I-neutral
+双 O
+9.9 O
  
 鲜少 B-negative
 看 O
@@ -14009,7 +14009,7 @@ Roehampton I-neutral
 ， O
 有点 O
 意思 O
-。 I-neutral
+。 O
  
 今天 O
 我 O
@@ -14045,10 +14045,10 @@ Roehampton I-neutral
 > O
 http://t.cn/R4frbda O
 # O
-百词 B-neutral
-斩学霸 I-neutral
-认证 I-neutral
-# I-neutral
+百词 B-negative
+斩学霸 I-negative
+认证 O
+# O
  
 @ O
 M B-positive
@@ -14080,7 +14080,7 @@ M I-positive
 棒棒 O
 哒 O
 ！ O
-http://t.cn/Rv8KwSm I-neutral
+http://t.cn/Rv8KwSm O
  
 天边 B-negative
 被 O
@@ -14097,7 +14097,7 @@ http://t.cn/Rv8KwSm I-neutral
 ~ O
 早安 O
 ， O
-西班牙 I-neutral
+西班牙 B-neutral
  
 还 O
 可以 O
@@ -14111,8 +14111,8 @@ http://t.cn/Rv8KwSm I-neutral
 还 O
 没用 O
 , O
-味道 I-neutral
-很香 I-neutral
+味道 O
+很香 O
  
 《 B-positive
 东方 I-positive
@@ -14123,7 +14123,7 @@ project I-positive
 兔铃仙 B-negative
 COS I-negative
 赏 O
-。 I-neutral
+。 O
  
 # O
 秒 B-neutral
@@ -14132,8 +14132,8 @@ COS I-negative
 # O
 我 O
 分享 O
-了 I-neutral
-http://t.cn/RVbIJ6E I-neutral
+了 O
+http://t.cn/RVbIJ6E O
  
 昨天 O
 的 O
@@ -14150,8 +14150,8 @@ EXO B-neutral
 你们 O
 了 O
 [ O
-泪流满面 I-neutral
-] I-neutral
+泪流满面 O
+] O
  
 kKp B-negative
 我 O
@@ -14191,8 +14191,8 @@ din O
 卡恩 I-negative
 快乐 O
 我 O
-kjy B-neutral
-9i I-neutral
+kjy B-negative
+9i I-negative
  
 # O
 赵丽颖 B-positive
@@ -14214,8 +14214,8 @@ kjy B-neutral
 不会 O
 让 O
 我 O
-失望 I-neutral
-的 I-neutral
+失望 O
+的 O
  
 在 O
 这个 O
@@ -14242,8 +14242,8 @@ kjy B-neutral
 污 O
 ] O
 [ O
-污 B-neutral
-] I-neutral
+污 O
+] O
  
 微信 B-neutral
 很久 I-neutral
@@ -14289,7 +14289,7 @@ app O
 关键 I-negative
 要 O
 说到做到 O
-。 I-neutral
+。 O
  
 # O
 蒙面 B-positive
@@ -14316,7 +14316,7 @@ app O
 不会 O
 让 O
 我 O
-失望 I-neutral
+失望 O
  
 # O
 阴阳师 B-positive
@@ -14338,7 +14338,7 @@ app O
 ！ O
 （ O
 ） O
-http://t.cn/RcSYU1q I-neutral
+http://t.cn/RcSYU1q O
  
 # O
 赵丽颖 B-positive
@@ -14361,7 +14361,7 @@ http://t.cn/RcSYU1q I-neutral
 意识 O
 到 O
 了 O
-。 I-neutral
+。 O
  
 碧桂园 B-positive
 好房 O
@@ -14410,7 +14410,7 @@ http://t.cn/RcSYU1q I-neutral
 你们 O
 值得 O
 拥有 O
-http://t.cn/R2Wxpcp I-neutral
+http://t.cn/R2Wxpcp O
  
 # O
 班世超 B-negative
@@ -14449,8 +14449,8 @@ http://t.cn/R2Wxpcp I-neutral
 t O
 . O
 cn O
-/ I-neutral
-RV4UZEk I-neutral
+/ O
+RV4UZEk O
  
 重温 B-negative
 《 O
@@ -14498,8 +14498,8 @@ RV4UZEk I-neutral
 一生 O
 ， O
 直到 O
-垂垂老矣 B-neutral
-啊 I-neutral
+垂垂老矣 O
+啊 I-negative
  
 # O
 田 B-positive
@@ -14516,7 +14516,7 @@ dancer O
 + O
 1 O
 + O
-1年年 I-neutral
+1年年 O
  
 【 O
 墙体 B-negative
@@ -14586,7 +14586,7 @@ dancer O
 出现 O
 错位 B-neutral
 现象 I-neutral
-！ I-neutral
+！ O
  
 【 O
 奥迪 O
@@ -14653,7 +14653,7 @@ TSI O
 明年 O
 正式 O
 发布 O
-。 I-neutral
+。 O
  
 @努力努力再努力x O
 我 O
@@ -14692,7 +14692,7 @@ CHART O
 棒棒 O
 哒 O
 ！ O
-http://t.cn/Rv8KwKG I-neutral
+http://t.cn/Rv8KwKG O
  
 【 O
 达 O
@@ -14768,7 +14768,7 @@ http://t.cn/Rv8KwKG I-neutral
 到达 O
 仙境 O
 蓬莱 O
-。 I-neutral
+。 O
  
 # O
 嘻哈 B-positive
@@ -14803,8 +14803,8 @@ http://t.cn/Rv8KwKG I-neutral
 极 O
 。 O
 [ O
-玫瑰 B-neutral
-] I-neutral
+玫瑰 O
+] O
  
 我 B-positive
 的 I-positive
@@ -14830,8 +14830,8 @@ http://t.cn/Rv8KwKG I-neutral
 ] O
 [ O
 爱 O
-你 B-neutral
-] I-neutral
+你 O
+] O
  
 # O
 网红 O
@@ -14855,7 +14855,7 @@ http://t.cn/Rv8KwKG I-neutral
 可以 O
 成功 O
 求婚 O
-。 I-neutral
+。 O
  
 细节 O
 参数 O
@@ -14866,7 +14866,7 @@ http://t.cn/Rv8KwKG I-neutral
 翻看 O
 昨日 O
 朋友圈 O
-。 I-neutral
+。 O
  
 我 O
 参与 O
@@ -14903,8 +14903,8 @@ http://t.cn/Rv8KwKG I-neutral
 来 O
 表态 O
 吧 O
-~ I-neutral
-http://t.cn/RV5bqRj I-neutral
+~ O
+http://t.cn/RV5bqRj O
  
 妈蛋 O
 今天 O
@@ -14969,7 +14969,7 @@ http://t.cn/RV5bqRj I-neutral
 没用 O
 ！ O
 ！ O
-！ I-neutral
+！ O
  
 喽 O
 【 O
@@ -14989,8 +14989,8 @@ http://t.cn/RV5bqRj I-neutral
 阿姨 O
 带来 O
 的 O
-改善 I-neutral
-善 I-neutral
+改善 O
+善 O
  
 无聊 O
 翻 O
@@ -15037,7 +15037,7 @@ http://t.cn/RV5bqRj I-neutral
 点 O
 人情味 O
 … O
-… I-neutral
+… O
  
 给 O
 你们 O
@@ -15071,7 +15071,7 @@ http://t.cn/RV5bqRj I-neutral
 来 O
 挑战 O
 ！ O
-http://t.cn/RV4VlUd I-neutral
+http://t.cn/RV4VlUd O
  
 【 O
 电影 O
@@ -15131,8 +15131,8 @@ MV O
 唱 B-neutral
 足 I-neutral
 32场 I-neutral
-！ I-neutral
-” I-neutral
+！ O
+” O
  
 【 O
 赤壁市 O
@@ -15191,13 +15191,13 @@ MV O
 ， O
 最高 O
 为 O
-观音 B-negative
+观音 I-negative
 尖 I-negative
 ， O
 海拔 B-negative
 852 I-negative
 米 I-negative
-。 I-neutral
+。 O
  
 # O
 爱上 O
@@ -15238,7 +15238,7 @@ din O
 嘎嘎 O
 ~ O
 ~ O
-~ I-neutral
+~ O
  
 # O
 SNH B-positive
@@ -15253,7 +15253,7 @@ SNH B-positive
 一般 O
 的 O
 赞 O
-。 I-neutral
+。 O
  
 # O
 微笑 B-positive
@@ -15267,7 +15267,7 @@ SNH B-positive
 ， O
 特别 O
 是 O
-童星 I-neutral
+童星 O
  
 # O
 井柏然 B-positive
@@ -15276,8 +15276,8 @@ SNH B-positive
 小井 B-negative
 先生 I-negative
 的 O
-爱 B-neutral
-超自然 I-neutral
+爱 O
+超自然 O
  
 哎 O
 分享 O
@@ -15289,9 +15289,9 @@ SNH B-positive
 在 O
 终点 O
 等 O
-我 B-neutral
-》 I-neutral
-http://t.cn/RcHm68t（分享自@虾米音乐） I-neutral
+我 O
+》 O
+http://t.cn/RcHm68t（分享自@虾米音乐） O
  
 我 O
 刚刚 O
@@ -15380,7 +15380,7 @@ t O
 . O
 cn O
 / O
-R2IG38C I-neutral
+R2IG38C O
  
 Lily B-negative
 韩妆 I-negative
@@ -15421,7 +15421,7 @@ Lily B-negative
 火热 O
 预定 O
 中中 O
-中 I-neutral
+中 O
  
 # O
 王凯 B-negative
@@ -15493,7 +15493,7 @@ kkw I-negative
 的 I-negative
 影迷 I-negative
 朋友 O
-】 I-neutral
+】 O
  
 # O
 明星 O
@@ -15522,7 +15522,7 @@ pushme B-negative
 ， O
 挺不错 O
 的 O
-。 I-neutral
+。 O
  
 # O
 青云 B-positive
@@ -15553,7 +15553,7 @@ pushme B-negative
 感觉 O
 挺不错 O
 呢 O
-。 I-neutral
+。 O
  
 章鱼 B-negative
 保罗 O
@@ -15588,9 +15588,9 @@ pushme B-negative
 喽 O
 ！ O
 下载 O
-链接 I-neutral
-： I-neutral
-http://t.cn/R5dgyif I-neutral
+链接 O
+： O
+http://t.cn/R5dgyif O
  
 发现 O
 手打 O
@@ -15612,12 +15612,12 @@ http://t.cn/R5dgyif I-neutral
 摊手 O
 ] O
 [ O
-哆 B-neutral
-啦 I-neutral
-A I-neutral
-梦 I-neutral
-吃惊 I-neutral
-] I-neutral
+哆 O
+啦 O
+A O
+梦 O
+吃惊 O
+] O
  
 【 O
 柳州 B-neutral
@@ -15696,7 +15696,7 @@ A I-neutral
 六是 O
 温室 O
 广场 O
-。 I-neutral
+。 O
  
 # O
 阴阳师 B-positive
@@ -15714,11 +15714,11 @@ A I-neutral
 养成 O
 计划 O
 ~ O
-http://t.cn/R54aJnq I-neutral
+http://t.cn/R54aJnq O
  
-未央 B-neutral
-奈醬 I-neutral
-20歲生快快快 I-neutral
+未央 B-negative
+奈醬 I-negative
+20歲生快快快 O
  
 【 O
 不 O
@@ -15785,8 +15785,8 @@ http O
 t O
 . O
 cn O
-/ I-neutral
-RV4UTRI I-neutral
+/ O
+RV4UTRI O
  
 # O
 三流 O
@@ -15837,8 +15837,8 @@ http://t.cn/RZkcUcv O
 冲诛仙 O
 榜 O
 # O
-诛仙 O
-青云 B-positive
+诛仙 B-positive
+青云 I-positive
 志 I-positive
 # O
 新仙 O
@@ -15873,7 +15873,7 @@ http://t.cn/RtVlWcU O
 ... O
 全文 O
 ： O
-http://m.weibo.cn/5984749987/4027719249833077 I-neutral
+http://m.weibo.cn/5984749987/4027719249833077 O
  
 韬 B-negative
 韬 I-negative
@@ -15917,8 +15917,8 @@ http://m.weibo.cn/5984749987/4027719249833077 I-neutral
 ] O
 [ O
 爱 O
-你 B-neutral
-] I-neutral
+你 O
+] O
  
 # O
 青云 B-positive
@@ -15941,11 +15941,11 @@ http://m.weibo.cn/5984749987/4027719249833077 I-neutral
 的 O
 喜欢 O
 看 O
-。 I-neutral
+。 O
  
 34 O
 分享 O
-LAY B-positive
+LAY O
 的 O
 歌曲 O
 《 O
@@ -15957,7 +15957,7 @@ need I-positive
 http://t.cn/RVw5dJq（分享自@ O
 虾米 B-neutral
 音乐 I-neutral
-） I-neutral
+） O
  
 发布 O
 了 O
@@ -15975,10 +15975,10 @@ http://t.cn/RVw5dJq（分享自@ O
 分析 O
 》 O
 @ O
-郑凯 B-neutral
-_ I-neutral
-财经 I-neutral
-http://t.cn/RVUM39R I-neutral
+郑凯 O
+_ O
+财经 B-negative
+http://t.cn/RVUM39R I-negative
  
 @努力努力再努力x O
 正在 O
@@ -15987,10 +15987,10 @@ http://t.cn/RVUM39R I-neutral
 势力 I-neutral
 榜 I-neutral
 # O
-韩国 B-positive
-榜 I-positive
-打 I-positive
-榜 I-positive
+韩国 B-neutral
+榜 I-neutral
+打 O
+榜 O
 ， O
 动动手 O
 指 O
@@ -15999,7 +15999,7 @@ http://t.cn/RVUM39R I-neutral
 我们 O
 的 O
 ！ O
-http://t.cn/Rv8KwKG I-neutral
+http://t.cn/Rv8KwKG O
  
 尼玛 O
 [ O
@@ -16015,7 +16015,7 @@ http://t.cn/Rv8KwKG I-neutral
 没少 O
 观察 O
 啊 O
-~ I-neutral
+~ O
  
 【 O
 测 B-negative
@@ -16079,7 +16079,7 @@ http://t.cn/Rv8KwKG I-neutral
 . O
 留意 B-negative
 有效期 I-negative
-。 I-neutral
+。 O
  
 包邮 O
 【 O
@@ -16134,8 +16134,8 @@ http://t.cn/Rv8KwKG I-neutral
 的 O
 治愈 O
 系 O
-零食 I-neutral
-http://t.cn/RVIcQwq吃吃吃 I-neutral
+零食 O
+http://t.cn/RVIcQwq吃吃吃 O
  
 美食 O
 药局 O
@@ -16147,9 +16147,9 @@ http://t.cn/RVIcQwq吃吃吃 I-neutral
 让 O
 其 O
 变成 O
-哈巴狗 B-neutral
-的 I-neutral
-http://t.cn/RV4UzaW I-neutral
+哈巴狗 B-negative
+的 I-negative
+http://t.cn/RV4UzaW I-negative
  
 很 O
 好看 O
@@ -16170,7 +16170,7 @@ http://t.cn/RV4UzaW I-neutral
 下 O
 黄 O
 多多 O
-很棒 I-neutral
+很棒 O
  
 出差 O
 “ O
@@ -16209,10 +16209,10 @@ http://t.cn/RV4UzaW I-neutral
 请 O
 叫 O
 我 O
-打油诗 B-neutral
-小 I-neutral
-能手 I-neutral
-# I-neutral
+打油诗 O
+小 O
+能手 O
+# O
  
 # O
 河南 B-positive
@@ -16257,8 +16257,8 @@ http://t.cn/RV4UzaW I-neutral
 处 O
 团队 O
 一起 O
-合作 I-neutral
-！ I-neutral
+合作 O
+！ O
  
 # O
 微笑 B-positive
@@ -16275,8 +16275,8 @@ http://t.cn/RV4UzaW I-neutral
 很 O
 好 O
 [ O
-礼花 I-neutral
-] I-neutral
+礼花 O
+] O
  
 【 O
 英国 B-neutral
@@ -16348,7 +16348,7 @@ SUV O
 保时捷 B-neutral
 Macan I-neutral
 相当 O
-。 I-neutral
+。 O
  
 # O
 扇贝 B-neutral
@@ -16379,7 +16379,7 @@ t O
 . O
 cn O
 / O
-RV4iGov I-neutral
+RV4iGov O
  
 @ O
 许魏洲 B-negative
@@ -16408,9 +16408,9 @@ ZZ I-negative
 哦 O
 。 O
 棒棒 O
-哒 I-neutral
-！ I-neutral
-http://t.cn/RGW1lXq I-neutral
+哒 O
+！ O
+http://t.cn/RGW1lXq O
  
 英国 B-neutral
 一位 O
@@ -16472,7 +16472,7 @@ http://t.cn/RGW1lXq I-neutral
 也 O
 是 O
 厉害 O
-。 I-neutral
+。 O
  
 还 O
 可以 O
@@ -16486,8 +16486,8 @@ http://t.cn/RGW1lXq I-neutral
 还 O
 没用 O
 , O
-味道 I-neutral
-很香 I-neutral
+味道 O
+很香 O
  
 在 O
 这个 O
@@ -16506,7 +16506,7 @@ http://t.cn/RGW1lXq I-neutral
 手机 B-neutral
 百度 I-neutral
 ） O
-http://t.cn/RVIc5x0 I-neutral
+http://t.cn/RVIc5x0 O
  
 新加坡国立大学 B-negative
 的 O
@@ -16571,7 +16571,7 @@ http://t.cn/RVIc5x0 I-neutral
 已经 O
 不远 O
 了 O
-。 I-neutral
+。 O
  
 东京 B-neutral
 梦华 I-neutral
@@ -16580,7 +16580,7 @@ http://t.cn/RVIc5x0 I-neutral
 失望 O
 了 O
 … O
-… I-neutral
+… O
  
 我 O
 对 O
@@ -16618,7 +16618,7 @@ MDZZ B-negative
 （ O
 ？ O
 ？ O
-？ I-neutral
+？ O
  
 袁隆平 B-neutral
 青岛 B-neutral
@@ -16641,7 +16641,7 @@ http://t.cn/RVVsi1r O
 @ O
 新浪 B-neutral
 新闻 I-neutral
-） I-neutral
+） O
  
 我 O
 希望 O
@@ -16687,7 +16687,7 @@ http://t.cn/RVVsi1r O
 的 O
 全世界 O
 路过 O
-） I-neutral
+） O
  
 SW O
 stuart B-neutral
@@ -16700,7 +16700,7 @@ weitzman I-neutral
 跟 O
 8.5 O
 cm O
-跟 I-neutral
+跟 O
  
 世上 B-negative
 最贵 I-negative
@@ -16742,7 +16742,7 @@ cm O
 ] O
 [ O
 心 O
-] I-neutral
+] O
  
 当 O
 一个 O
@@ -16785,8 +16785,8 @@ cm O
 有利 O
 。 O
 — O
-— I-neutral
-恩格斯 I-neutral
+— O
+恩格斯 O
  
 #龙珠Z B-negative
 ： I-negative
@@ -16807,7 +16807,7 @@ cm O
 看好 O
 龙珠 B-positive
 z I-positive
-哦 I-neutral
+哦 O
  
 # O
 关灯 O
@@ -16841,9 +16841,9 @@ z I-positive
 加油 O
 啊 O
 ！ O
-好看 I-neutral
-！ I-neutral
-http://t.cn/RV4yKFg I-neutral
+好看 O
+！ O
+http://t.cn/RV4yKFg O
  
 微信 B-neutral
 很 O
@@ -16890,7 +16890,7 @@ app O
 关键 I-negative
 要 O
 说到做到 O
-。 I-neutral
+。 O
  
 粤威 B-negative
 女款 I-negative
@@ -16910,8 +16910,8 @@ app O
 ： O
 黑色 O
 35-40 O
-码 I-neutral
-http://t.cn/RV4VE59 I-neutral
+码 O
+http://t.cn/RV4VE59 O
  
 【 O
 英伦 B-neutral
@@ -16927,7 +16927,7 @@ http://t.cn/RV4VE59 I-neutral
 见 O
 胓 O
 论 O
-」 I-neutral
+」 O
  
 【 O
 切 B-neutral
@@ -16946,7 +16946,7 @@ all O
 ' O
 @orogelstadium O
 #cesenaspal O
-0-0 I-neutral
+0-0 O
  
 13 O
 分享 O
@@ -16959,7 +16959,7 @@ all O
 http://t.cn/RqsAI1I（分享自@ I-neutral
 虾米 B-neutral
 音乐 I-neutral
-） I-neutral
+） O
  
 # O
 你 O
@@ -16982,7 +16982,7 @@ http://t.cn/RqsAI1I（分享自@ I-neutral
 真的 O
 很快 O
 滴 O
-。 I-neutral
+。 O
  
 # O
 阴阳师 B-positive
@@ -17010,8 +17010,8 @@ SAMA I-positive
 意义 O
 ！ O
 （ O
-） I-neutral
-http://t.cn/RcXXIsB I-neutral
+） O
+http://t.cn/RcXXIsB O
  
 # O
 淘宝 O
@@ -17037,7 +17037,7 @@ http://t.cn/RcXXIsB I-neutral
 教程 O
 http://t.cn/RZKhTnq O
 @ O
-霍常亮 I-neutral
+霍常亮 B-neutral
  
 # O
 薛之谦 B-neutral
@@ -17091,7 +17091,7 @@ http://t.cn/RVt44gV I-neutral
 网易 B-neutral
 云 I-neutral
 音乐 I-neutral
-） I-neutral
+） O
  
 【 O
 炒 O
@@ -17143,7 +17143,7 @@ http://t.cn/RVt44gV I-neutral
 的 O
 盐 O
 起锅 O
-。 I-neutral
+。 O
  
 没有 O
 想象力 O
@@ -17165,7 +17165,7 @@ ppb O
 鼓掌 O
 ] O
 台 O
-。 I-neutral
+。 O
  
 洗洁精 B-negative
 新 O
@@ -17178,9 +17178,9 @@ kg I-negative
 去 O
 油 O
 不 O
-伤手 B-neutral
-洗洁精 I-neutral
-http://t.cn/Rci7CJZ I-neutral
+伤手 B-negative
+洗洁精 I-negative
+http://t.cn/Rci7CJZ O
  
 全国 O
 自救 B-negative
@@ -17196,8 +17196,8 @@ http://t.cn/Rci7CJZ I-neutral
 东莞 B-neutral
 站 O
 隆重 O
-开启 I-neutral
-！ I-neutral
+开启 O
+！ O
  
 # O
 微博 O
@@ -17219,10 +17219,10 @@ http://t.cn/Rci7CJZ I-neutral
 也 O
 一 O
 起来 O
-试试 I-neutral
-吧 I-neutral
-！ I-neutral
-http://t.cn/Rc5S9jE I-neutral
+试试 O
+吧 O
+！ O
+http://t.cn/Rc5S9jE O
  
 【 O
 培根 O
@@ -17282,7 +17282,7 @@ http://t.cn/Rc5S9jE I-neutral
 ， O
 点缀 B-negative
 西兰花 I-negative
-。 I-neutral
+。 O
  
 # O
 SNH B-positive
@@ -17322,7 +17322,7 @@ SNH B-positive
 了 O
 眼界 O
 哈 O
-。 I-neutral
+。 O
  
 一只 O
 来自 O
@@ -17361,8 +17361,8 @@ SNH B-positive
 按 O
 完 O
 自己 O
-开始 I-neutral
-http://t.cn/R2rMSGX I-neutral
+开始 O
+http://t.cn/R2rMSGX O
  
 相信 O
 桔子 O
@@ -17384,7 +17384,7 @@ http://t.cn/R2rMSGX I-neutral
 很 O
 好看 O
 啊 O
-。 I-neutral
+。 O
  
 相信 O
 桔子 O
@@ -17406,7 +17406,7 @@ http://t.cn/R2rMSGX I-neutral
 很 O
 好看 O
 啊 O
-。 I-neutral
+。 O
  
 凡是 O
 创造 O
@@ -17462,8 +17462,8 @@ cry O
 了 O
 。 O
 — O
-— I-neutral
-加里宁 I-neutral
+— O
+加里宁 O
  
 [ O
 胖雨 B-negative
@@ -17484,10 +17484,10 @@ cry O
 ， O
 我 O
 站 O
-胖雨 B-neutral
-了 I-neutral
-！ I-neutral
-http://t.cn/RV4V80U I-neutral
+胖雨 O
+了 O
+！ O
+http://t.cn/RV4V80U O
  
 激动 O
 金钟 B-positive
@@ -17518,7 +17518,7 @@ http://t.cn/RVZCEfe（分享自@虾米音乐） I-neutral
 … O
 啊 O
 … O
-… I-neutral
+… O
  
 Vetements B-negative
 五芒星 I-negative
@@ -17574,7 +17574,7 @@ XXL I-negative
 325包邮 I-negative
 高清 O
 细节 O
-图 I-neutral
+图 O
  
 # O
 阴阳师 B-positive
@@ -17608,7 +17608,7 @@ XXL I-negative
 ！ O
 [ O
 ] O
-http://t.cn/RcSYU1q I-neutral
+http://t.cn/RcSYU1q O
  
 【 O
 本田 O
@@ -17658,7 +17658,7 @@ S O
 10.32 O
 万元 O
 ） O
-。 I-neutral
+。 O
  
 # O
 你 O
@@ -17680,7 +17680,7 @@ S O
 很 O
 有 O
 吸引力 O
-。 I-neutral
+。 O
  
 # O
 大西北 B-negative
@@ -17761,8 +17761,8 @@ S O
 情怀 I-negative
 ， O
 令人 O
-向往 B-neutral
-！ I-neutral
+向往 O
+！ O
  
 日本 B-neutral
 8月第三产业活动指数环比0 O
@@ -17780,7 +17780,7 @@ S O
 . O
 3 O
 % O
-。 I-neutral
+。 O
  
 【 O
 奔驰 B-neutral
@@ -17861,7 +17861,7 @@ AMG B-positive
 100km B-negative
 / I-negative
 h I-negative
-。 I-neutral
+。 O
  
 轩轩 B-neutral
 与 I-neutral
@@ -17911,7 +17911,7 @@ h I-negative
 在 O
 一起 O
 啦 O
-~ I-neutral
+~ O
  
 《 O
 三人行 O
@@ -17945,7 +17945,7 @@ h I-negative
 ！ O
 [ O
 哈哈 O
-] I-neutral
+] O
  
 【 O
 S O
@@ -17955,7 +17955,7 @@ H O
 E O
 首唱 O
 专辑 O
-第二 B-negative
+第二 I-negative
 波 I-negative
 主打 O
 《 O
@@ -18005,7 +18005,7 @@ SHE O
 才 O
 是 O
 人生 O
-。 I-neutral
+。 O
  
 微博 O
 没有 O
@@ -18015,7 +18015,7 @@ SHE O
 删 O
 了 O
 重写 O
-麻烦 I-neutral
+麻烦 O
  
 续命 B-negative
 大赛 I-negative
@@ -18047,8 +18047,8 @@ A O
 进入 O
 白热化 O
 [ O
-doge I-neutral
-] I-neutral
+doge O
+] O
  
 这个 O
 学校 O
@@ -18056,12 +18056,12 @@ doge I-neutral
 韩国 O
 是不是 O
 相当于 O
-日本 B-neutral
-的 I-neutral
-堀越 I-neutral
-高校 I-neutral
-啊 I-neutral
-？ I-neutral
+日本 O
+的 O
+堀越 B-negative
+高校 I-negative
+啊 O
+？ O
  
 请求 B-negative
 大家 O
@@ -18090,10 +18090,10 @@ doge I-neutral
 是 O
 号 O
 主人 B-neutral
-？ I-neutral
-！ I-neutral
-nmlgb I-neutral
-！ I-neutral
+？ O
+！ O
+nmlgb O
+！ O
  
 讲真 O
 ， O
@@ -18114,8 +18114,8 @@ nmlgb I-neutral
 # O
 为 O
 @ O
-陈学冬 B-neutral
-http://t.cn/RcdppGJ打榜吧！ I-neutral
+陈学冬 B-negative
+http://t.cn/RcdppGJ打榜吧！ I-negative
  
 @ O
 王凯 B-negative
@@ -18148,8 +18148,8 @@ kkw I-negative
 ！ O
 http://t.cn/Rz5iysL O
 [ O
-嘻嘻 I-neutral
-] I-neutral
+嘻嘻 O
+] O
  
 【 O
 素 B-neutral
@@ -18217,7 +18217,7 @@ http://t.cn/Rz5iysL O
 味精 B-negative
 调好味 I-negative
 盛起 I-negative
-。 I-neutral
+。 O
  
 # O
 电影 B-positive
@@ -18245,8 +18245,8 @@ http://t.cn/Rz5iysL O
 什么 O
 时候 O
 能 O
-看 I-neutral
-啊 I-neutral
+看 O
+啊 O
  
 # O
 阴阳师 B-positive
@@ -18275,7 +18275,7 @@ SAMA I-positive
 血统 O
 [ O
 ] O
-http://t.cn/RqsYJde I-neutral
+http://t.cn/RqsYJde O
  
 讲道理 O
 为 O
@@ -18289,8 +18289,8 @@ http://t.cn/RqsYJde I-neutral
 这么 O
 好 O
 [ O
-微笑 B-neutral
-] I-neutral
+微笑 O
+] O
  
 1333 B-negative
 我 O
@@ -18311,8 +18311,8 @@ http://t.cn/RqsYJde I-neutral
 一起 O
 冲榜 O
 吧 O
-。 I-neutral
-http://t.cn/RV2zQ4w I-neutral
+。 O
+http://t.cn/RV2zQ4w O
  
 手工 O
 增加 O
@@ -18393,7 +18393,7 @@ iPhone B-neutral
 需 O
 慎重 O
 决定 O
-。 I-neutral
+。 O
  
 Wow O
 , O
@@ -18449,7 +18449,7 @@ http://t.cn/RVyAHMo O
 会 O
 在 O
 微博 O
-http://t.cn/RcEuJ4o倒包晒贴身时尚单品，我的天哪！快搬小板凳来看！ I-neutral
+http://t.cn/RcEuJ4o倒包晒贴身时尚单品，我的天哪！快搬小板凳来看！ O
  
 【 O
 莫莫格 B-neutral
@@ -18512,7 +18512,7 @@ http://t.cn/RcEuJ4o倒包晒贴身时尚单品，我的天哪！快搬小板凳�
 90 I-negative
 % O
 以上 O
-。 I-neutral
+。 O
  
 生活 O
 坏到 O
@@ -18596,8 +18596,8 @@ http://t.cn/RcEuJ4o倒包晒贴身时尚单品，我的天哪！快搬小板凳�
 ## O
 高密 O
 事儿 O
-# B-neutral
-http://t.cn/RyhQhyT I-neutral
+# O
+http://t.cn/RyhQhyT O
  
 # O
 峰会 O
@@ -18618,9 +18618,9 @@ http://t.cn/RyhQhyT I-neutral
 哼 O
 ] O
 [ O
-围观 I-neutral
-] I-neutral
-昂庶 I-neutral
+围观 O
+] O
+昂庶 O
  
 # O
 嘻哈 B-positive
@@ -18640,8 +18640,8 @@ http://t.cn/RyhQhyT I-neutral
 强悍 O
 。 O
 [ O
-招财 I-neutral
-] I-neutral
+招财 O
+] O
  
 安安 B-negative
 > O
@@ -18650,9 +18650,9 @@ http://t.cn/RVVZQWM O
 ( O
 来自 O
 @ O
-唱 B-neutral
-吧 I-neutral
-) I-neutral
+唱 O
+吧 O
+) O
  
 莫道 B-negative
 醉人 I-negative
@@ -18665,9 +18665,9 @@ http://t.cn/RVVZQWM O
 醉人 B-positive
 # I-positive
 苏有朋 I-positive
+# I-positive
+#电影嫌疑人x的献身 I-positive
 # O
-#电影嫌疑人x的献身 B-neutral
-# I-neutral
  
 114岁 O
 ？ O
@@ -18732,7 +18732,7 @@ http://t.cn/RVUpY6O O
 ” O
 传承 O
 ！ O
-http://t.cn/RcDQrs7 I-neutral
+http://t.cn/RcDQrs7 O
  
 # O
 冯 B-positive
@@ -18777,8 +18777,8 @@ http://t.cn/RcDQrs7 I-neutral
 怒骂 O
 ] O
 [ O
-怒骂 I-neutral
-] I-neutral
+怒骂 O
+] O
  
 得 O
 其利 O
@@ -18803,8 +18803,8 @@ http://t.cn/RcDQrs7 I-neutral
 9.9 O
 ， O
 优惠券 O
-→ I-neutral
-http://t.cn/RV4UqmP，去下单→http://t.cn/RV4UqEi I-neutral
+→ O
+http://t.cn/RV4UqmP，去下单→http://t.cn/RV4UqEi O
  
 自力 B-negative
 自重 I-negative
@@ -18844,8 +18844,8 @@ http://t.cn/RV4UqmP，去下单→http://t.cn/RV4UqEi I-neutral
 快乐 O
 的 O
 重要 O
-原因 I-neutral
-87uy6t I-neutral
+原因 O
+87uy6t O
  
 雨声 O
 潺潺 O
@@ -18866,7 +18866,7 @@ http://t.cn/RV4UqmP，去下单→http://t.cn/RV4UqEi I-neutral
 《 B-neutral
 小 I-neutral
 团圆 I-neutral
-》 I-neutral
+》 O
  
 顾随 B-negative
 在 O
@@ -18928,7 +18928,7 @@ http://t.cn/RV4UqmP，去下单→http://t.cn/RV4UqEi I-neutral
 高昂 I-negative
 ， O
 脱袄 O
-。 I-neutral
+。 O
  
 给 O
 你们 O
@@ -18960,9 +18960,9 @@ http://t.cn/RV4UqmP，去下单→http://t.cn/RV4UqEi I-neutral
 等 O
 你 O
 来 O
-挑战 I-neutral
-！ I-neutral
-http://t.cn/RVI55gw I-neutral
+挑战 O
+！ O
+http://t.cn/RVI55gw O
  
 法库 B-neutral
 ， O
@@ -18978,7 +18978,7 @@ http://t.cn/RVI55gw I-neutral
 空气质量 O
 ： O
 良 O
-。 I-neutral
+。 O
  
 晚安 O
 六年级 O
@@ -18986,8 +18986,8 @@ http://t.cn/RVI55gw I-neutral
 林夕 B-neutral
 老师 O
 [ O
-感冒 I-neutral
-] I-neutral
+感冒 O
+] O
  
 【 O
 阿斯顿 B-neutral
@@ -19059,7 +19059,7 @@ DBX O
 以及 O
 四驱 B-positive
 系统 I-positive
-。 I-neutral
+。 O
  
 暮 B-negative
 【 O
@@ -19081,15 +19081,15 @@ DBX O
 。 O
 。 O
 。 O
-】 I-neutral
+】 O
  
 Got B-negative
 game I-negative
 with I-negative
 you O
 all O
-@ B-neutral
-檳城 I-neutral
+@ O
+檳城 O
  
 300天 O
 [ O
@@ -19102,7 +19102,7 @@ all O
 北京舞蹈学院 B-positive
 附中 I-positive
 2010级B班 O
-http://t.cn/R2WJKLR I-neutral
+http://t.cn/R2WJKLR O
  
 有 O
 的 O
@@ -19138,9 +19138,9 @@ http://t.cn/R2WJKLR I-neutral
 - O
 - O
 《 O
-异 B-neutral
-度空间 I-neutral
-》 I-neutral
+异 B-negative
+度空间 I-negative
+》 O
  
 3 O
 、 O
@@ -19180,7 +19180,7 @@ http://t.cn/R2WJKLR I-neutral
 发布会 I-neutral
 （ O
 2016年10月9日 O
-） I-neutral
+） O
  
 [ O
 哆 O
@@ -19204,7 +19204,7 @@ A O
 我 O
 儿子 B-negative
 学琴 I-negative
-。 I-neutral
+。 O
  
 我 O
 参与 O
@@ -19244,8 +19244,8 @@ A O
 来 O
 表态 O
 吧 O
-~ I-neutral
-http://t.cn/RVze0xB I-neutral
+~ O
+http://t.cn/RVze0xB O
  
 # O
 SNH B-positive
@@ -19263,7 +19263,7 @@ SNH B-positive
 喜欢 O
 ， O
 力挺 O
-。 I-neutral
+。 O
  
 大赞 B-negative
 ！ O
@@ -19288,8 +19288,8 @@ APP O
 媳妇儿 O
 买 O
 新 O
-衣裳 B-neutral
-啦 I-neutral
-！ I-neutral
-http://t.cn/RqlYVTV I-neutral
+衣裳 O
+啦 O
+！ O
+http://t.cn/RqlYVTV O
  
