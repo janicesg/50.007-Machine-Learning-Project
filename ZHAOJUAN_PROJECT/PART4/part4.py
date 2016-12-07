@@ -5,7 +5,7 @@
 
 
 #####################################################################
-
+import sys
 import math
 from collections import Counter
 
@@ -158,20 +158,11 @@ def get_y_predict(em_dic, x_test):
 ############################################################################
 # Function: To write the predictions into a file
 # Input: data_file_dir,devout_dir,devin_dir
-def output_prediction(data_file_dir, devin_dir, devout_dir, algo):
+def output_prediction(data_file_dir, devin_dir, devout_dir,k):
     x_test = get_X(devin_dir)
     em_v = train_emission_param(data_file_dir)
     tran_v = train_tran_param(data_file_dir)
-    if algo == 'v':
-        y_predict = viterbi(em_v, tran_v, x_test)
-    elif 'tt' in algo:
-        k = int(algo.split(":")[1])
-        y_predict = viterbi_top(em_v, tran_v, x_test, k)
-    elif 'b' in algo:
-        k = int(algo.split(":")[1])
-        y_predict = better(em_v, tran_v, x_test,k)
-    else:
-        y_predict = get_y_predict(em_v, x_test)
+    y_predict = viterbi_top(em_v, tran_v, x_test, k)
     f_out = open(devout_dir, 'w')
     for i in range(len(x_test)):
         xi = x_test[i]
@@ -469,9 +460,18 @@ def viterbi_top(em, tran, x_test,k):
             ym_predict_label.append(y)
         y_predict.append(ym_predict_label)
     return y_predict
-#################Test part 4#########################
 
-#output_prediction('CN/train', 'CN/dev.in', 'CN/dev.P4.out', 'tt:5')
-#output_prediction('EN/train', 'EN/dev.in', 'EN/dev.P4.out', 'tt:5')
-#output_prediction('ES/train', 'ES/dev.in', 'ES/dev.P4.out', 'tt:5')
-#output_prediction('SG/train', 'SG/dev.in', 'SG/dev.P4.out', 'tt:5')
+
+################### Main function #####################
+
+if len(sys.argv) < 4:
+    print ('Please make sure you have installed Python 3.4 or above!')
+    print ("Please make sure your command is in the format 'python3 part4.py EN/train EN/dev.in EN/dev.P4.out 5'")
+    sys.exit()
+
+train = sys.argv[1]
+devin = sys.argv[2]
+devout = sys.argv[3]
+k = sys.argv[4]
+
+output_prediction(train,devin,devout,int(k)) 

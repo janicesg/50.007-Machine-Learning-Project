@@ -1,6 +1,7 @@
-#Part 5 code here# Input: Directory of files (datafile_dir)
+#Part 5 code here# Input: Directory of files (datafile_dir)# Input: Directory of files (datafile_dir)
 # Output: X data set and Y data set (X,Y)
 import math
+import sys
 from collections import Counter
 
 
@@ -39,17 +40,21 @@ def get_X(datafile_dir):
     f_content = f.read()
     X = []
     xi = []
+    i = 0
     for data in f_content.split('\n'):
 
-        if data == '':
+        i+=1
+        if data == '' or data == '\r':
             if (xi != []):
                 X.append(xi)
                 xi = []
         else:
             if '\r' in data:
                 data =data.split('\r')[0]
+
             xij = data
             xi.append(xij)
+
     return X
 
 
@@ -141,7 +146,8 @@ def get_y_predict(em_dic, x_test):
                     if em_dic[(xi, state)] >= temp:
                         temp = em_dic[(xi, state)]
                         yi = state
-            # print (xi,yi)
+           
+
             ym.append(yi)
         y_predict.append(ym)
     return y_predict
@@ -150,21 +156,12 @@ def get_y_predict(em_dic, x_test):
 ############################################################################
 # Function: To write the predictions into a file
 # Input: data_file_dir,devout_dir,devin_dir
-def output_prediction(data_file_dir, devin_dir, devout_dir, algo):
+def output_prediction(data_file_dir, devin_dir, devout_dir,k):
     x_test = get_X(devin_dir)
-    print ( x_test)
     em_v = train_emission_param(data_file_dir)
     tran_v = train_tran_param(data_file_dir)
-    if algo == 'v':
-        y_predict = viterbi(em_v, tran_v, x_test)
-    elif 'tt' in algo:
-        select = int(algo.split(":")[1])
-        y_predict = viterbi_top(em_v, tran_v, x_test, select)
-    elif 'b' in algo:
-        k = int(algo.split(":")[1])
-        y_predict = better(em_v, tran_v, x_test,k)
-    else:
-        y_predict = get_y_predict(em_v, x_test)
+    y_predict = better(em_v, tran_v, x_test,k)
+  
     f_out = open(devout_dir, 'w')
     for i in range(len(x_test)):
         xi = x_test[i]
@@ -472,7 +469,7 @@ def viterbi_top(em, tran, x_test, select,k):
 
 
 def better(em, tran, x_test,k):
-    print ('i am entering the function')
+
 
     y = []
     y_predict = []
@@ -483,10 +480,9 @@ def better(em, tran, x_test,k):
 
     for select in range(k):
         y.append(viterbi_top(em, tran, x_test, select,k))
-        print ('finished trained',select)
-    print (y)
+
     for m in range(len(y[0])):
-        print ('m:', m)
+
         ym_predict = []
         for i in range(len(y[0][m])):
             temp = {}
@@ -502,9 +498,17 @@ def better(em, tran, x_test,k):
     return y_predict
 
 
-#########################################################
+#################################### main function  #####################
+if len(sys.argv) < 4:
+    print ('Please make sure you have installed Python 3.4 or above!')
+    print ("Please make sure your command is in the format 'python3 part5.py EN/train EN/dev.in EN/dev.P5.out 5'")
+    sys.exit()
 
-#output_prediction('CN/train', 'CN/dev.in', 'CN/dev.P5.out', 'b:30')
-#output_prediction('EN/train', 'EN/dev.in', 'EN/dev.P5.out', 'b:30')
-#output_prediction('ES/train', 'ES/dev.in', 'ES/dev.P5.out', 'b:30')
-#output_prediction('SG/train', 'SG/dev.in', 'SG/dev.P5.out', 'b:30')
+train = sys.argv[1]
+devin = sys.argv[2]
+devout = sys.argv[3]
+k = sys.argv[4]
+
+output_prediction(train,devin,devout,int(k)) 
+
+

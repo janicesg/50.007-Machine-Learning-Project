@@ -7,6 +7,7 @@
 #####################################################################
 #Input: Directory of files (datafile_dir)
 #Output: X data set and Y data set (X,Y)
+import sys
 import math
 def get_XY(datafile_dir):
     f = open(datafile_dir, encoding = "utf-8")
@@ -150,19 +151,11 @@ def get_y_predict(em_dic,x_test):
 ############################################################################
 #Function: To write the predictions into a file 
 #Input: data_file_dir,devout_dir,devin_dir
-def output_prediction(data_file_dir,devin_dir,devout_dir,algo):
+def output_prediction(data_file_dir,devin_dir,devout_dir):
     x_test = get_X(devin_dir)
     em_v = train_emission_param(data_file_dir)
     tran_v = train_tran_param(data_file_dir)
-    if algo=='v':
-        y_predict = viterbi(em_v,tran_v,x_test)
-    elif  'tt' in algo:
-        select = int(algo.split(":")[1])
-        y_predict = viterbi_top(em_v,tran_v, x_test,select)
-    elif algo == 'p':
-        y_predict = perceptron_predict(data_file_dir,x_test)
-    else:
-        y_predict = get_y_predict(em_v,x_test)
+    y_predict = viterbi(em_v,tran_v,x_test)
     f_out = open(devout_dir,'w', encoding = "utf-8")
     for i in range(len(x_test)):
         xi = x_test[i] 
@@ -315,10 +308,14 @@ def viterbi(em,tran,x_test):
         y_predict.append(ym_predict_lable)
     return y_predict
 
-#########################Testing PART 3############################################
+######################### Main function ############################################
+if len(sys.argv) < 3:
+    print ('Please make sure you have installed Python 3.4 or above!')
+    print ("Please make sure your command is in the format 'python3 part3.py EN/train EN/dev.in EN/dev.P3.out'")
+    sys.exit()
 
+train = sys.argv[1]
+devin = sys.argv[2]
+devout = sys.argv[3]
 
-#output_prediction('EN/train','EN/dev.in','EN/dev.P3.out','v')        
-#output_prediction('ES/train','ES/dev.in','ES/dev.P3.out','v')   
-#output_prediction('CN/train','CN/dev.in','CN/dev.P3.out','v')   
-#output_prediction('SG/train','SG/dev.in','SG/dev.P3.out','v')   
+output_prediction(train,devin,devout)     
